@@ -75,10 +75,7 @@ const QuestionList = () => {
         return true;
       })
       .sort((a, b) => {
-        const difficultyOrder = { "Easy": 1, "Medium": 2, "Hard": 3 };
-        if (a.difficulty === b.difficulty && a.pattern && b.pattern) {
-            return a.pattern.join("") > b.pattern.join("") ? 1 : -1;
-        }
+        const difficultyOrder = { Easy: 1, Medium: 2, Hard: 3 };
         return difficultyOrder[a.difficulty] - difficultyOrder[b.difficulty];
       });
   
