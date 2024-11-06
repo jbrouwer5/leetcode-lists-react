@@ -1,0 +1,19 @@
+.progress-bar-container {
+    margin: 20px 0;
+}
+
+.progress-bar-margin {
+    margin-bottom: 10px; 
+}
+
+.progress-bar-border {
+    background: #ddd;
+    height: 20px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.progress-bar {
+    height: 100%;
+    transition: width 0.3s ease;
+}

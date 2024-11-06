@@ -1,0 +1,777 @@
+{
+  "data": [
+    {
+      "id": 147,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "solution": "https://leetcode.com/problems/two-sum/solutions/5862553/python-brute-force-hashmap/"
+    },
+    {
+      "id": 57,
+      "title": "Add Two Numbers",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/add-two-numbers/solutions/5964670/python-add-two-numbers-two-pointers/"
+    },
+    {
+      "id": 100,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 165,
+      "title": "Median of Two Sorted Arrays",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 38,
+      "title": "Longest Palindromic Substring",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/longest-palindromic-substring/solutions/5964573/python-brute-force-expand-from-middle-manacher-s-algorithm/"
+    },
+    {
+      "id": "B0",
+      "title": "Reverse Integer",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "A17",
+      "title": "String to Integer (atoi)",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B1",
+      "title": "Regular Expression Matching",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 155,
+      "title": "Container With Most Water",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B2",
+      "title": "Roman to Integer",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "B3",
+      "title": "Longest Common Prefix",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 150,
+      "title": "3Sum",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 25,
+      "title": "Letter Combinations of a Phone Number",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 58,
+      "title": "Remove Nth Node From End of List",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "A0",
+      "title": "Valid Parentheses",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 70,
+      "title": "Merge Two Sorted Lists",
+      "difficulty": "Easy",
+      "solution": "https://leetcode.com/problems/merge-two-sorted-lists/solutions/5862336/python-merge-two-linked-lists/"
+    },
+    {
+      "id": 22,
+      "title": "Generate Parentheses",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 73,
+      "title": "Merge k Sorted Lists",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "B4",
+      "title": "Remove Duplicates from Sorted Array",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "B5",
+      "title": "Find the Index of the First Occurrence in a String",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "B6",
+      "title": "Divide Two Integers",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 89,
+      "title": "Search in Rotated Sorted Array",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/5928783/python-binary-search/"
+    },
+    {
+      "id": "B7",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B8",
+      "title": "Valid Sudoku",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B9",
+      "title": "Count and Say",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 11,
+      "title": "First Missing Positive",
+      "difficulty": "Hard",
+      "solution": "https://leetcode.com/problems/first-missing-positive/solutions/5976407/python-sorting-hashmap-index-sorting-negative-marking/"
+    },
+    {
+      "id": 154,
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "solution": "https://leetcode.com/problems/trapping-rain-water/solutions/5979699/python-two-pointer-maximum-value-reference-point/"
+    },
+    {
+      "id": "B10",
+      "title": "Wildcard Matching",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 16,
+      "title": "Permutations",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 9,
+      "title": "Rotate Image",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/rotate-image/solutions/5726939/python-100-2-reflections-rotation-simple-code-explanation/"
+    },
+    {
+      "id": "B11",
+      "title": "Group Anagrams",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B12",
+      "title": "Pow(x, n)",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 32,
+      "title": "Maximum Subarray",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/maximum-subarray/solutions/5955232/python-dynamic-programming/"
+    },
+    {
+      "id": 8,
+      "title": "Spiral Matrix",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/spiral-matrix/solutions/5913097/python-spiral-matrix-spiral-matrix-4-liner/"
+    },
+    {
+      "id": 43,
+      "title": "Jump Game",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 76,
+      "title": "Merge Intervals",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/merge-intervals/solutions/5964650/python-merge-intervals-intervals-sorting/"
+    },
+    {
+      "id": 42,
+      "title": "Unique Paths",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B13",
+      "title": "Plus One",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "B14",
+      "title": "Sqrt(x)",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 29,
+      "title": "Climbing Stairs",
+      "difficulty": "Easy",
+      "solution": "https://leetcode.com/problems/climbing-stairs/solutions/5857570/python-3-approaches-dp-dp-memoization-iterative-dp-fibonacci/"
+    },
+    {
+      "id": 7,
+      "title": "Set Matrix Zeroes",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/set-matrix-zeroes/solutions/5900755/python-column-row-header-marking-in-place-no-extra-space/"
+    },
+    {
+      "id": 153,
+      "title": "Sort Colors",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 103,
+      "title": "Minimum Window Substring",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 14,
+      "title": "Subsets",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/subsets/solutions/5917942/python-iterative-recursive-backtracking-bit-manipulation/"
+    },
+    {
+      "id": 10,
+      "title": "Word Search",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/word-search/solutions/5913319/python-dfs-backtracking/"
+    },
+    {
+      "id": "A23",
+      "title": "Largest Rectangle in Histogram",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "B15",
+      "title": "Merge Sorted Array",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 41,
+      "title": "Decode Ways",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B16",
+      "title": "Binary Tree Inorder Traversal",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 140,
+      "title": "Validate Binary Search Tree",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/validate-binary-search-tree/solutions/5953909/python-dfs/"
+    },
+    {
+      "id": "B17",
+      "title": "Symmetric Tree",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 119,
+      "title": "Binary Tree Level Order Traversal",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/binary-tree-level-order-traversal/solutions/5922459/python-bfs/"
+    },
+    {
+      "id": 123,
+      "title": "Binary Tree Zigzag Level Order Traversal",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/solutions/5922540/python-bfs/"
+    },
+    {
+      "id": 128,
+      "title": "Maximum Depth of Binary Tree",
+      "difficulty": "Easy",
+      "solution": "https://leetcode.com/problems/maximum-depth-of-binary-tree/solutions/5711629/python-dfs/"
+    },
+    {
+      "id": 139,
+      "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/solutions/5953727/python-dfs/"
+    },
+    {
+      "id": "B18",
+      "title": "Convert Sorted Array to Binary Search Tree",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "B19",
+      "title": "Populating Next Right Pointers in Each Node",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B20",
+      "title": "Pascal's Triangle",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 31,
+      "title": "Best Time to Buy and Sell Stock",
+      "difficulty": "Easy",
+      "solution": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/5858039/python-2-approaches-brute-force-remember-lowest-stock-price/"
+    },
+    {
+      "id": "B21",
+      "title": "Best Time to Buy and Sell Stock II",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 142,
+      "title": "Binary Tree Maximum Path Sum",
+      "difficulty": "Hard",
+      "solution": "https://leetcode.com/problems/binary-tree-maximum-path-sum/solutions/5979605/python/"
+    },
+    {
+      "id": "A1",
+      "title": "Valid Palindrome",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "A20",
+      "title": "Word Ladder",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 12,
+      "title": "Longest Consecutive Sequence",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/longest-consecutive-sequence/solutions/5913249/python-sorting-hashmap-dp/"
+    },
+    {
+      "id": "B22",
+      "title": "Surrounded Regions",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 24,
+      "title": "Palindrome Partitioning",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B23",
+      "title": "Gas Station",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 3,
+      "title": "Single Number",
+      "difficulty": "Easy",
+      "solution": "https://leetcode.com/problems/single-number/solutions/5850041/4-python-approaches-sorting-hashmap-set-sum-bit-manipulation/"
+    },
+    {
+      "id": "B24",
+      "title": "Copy List with Random Pointer",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 39,
+      "title": "Word Break",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/word-break/solutions/5964625/python-iterative-dp-recursive-dp-memoization/"
+    },
+    {
+      "id": "B25",
+      "title": "Word Break II",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 50,
+      "title": "Linked List Cycle",
+      "difficulty": "Easy",
+      "solution": "https://leetcode.com/problems/linked-list-cycle/solutions/5857684/python-two-pointer-fast-slow-approach/"
+    },
+    {
+      "id": "A19",
+      "title": "LRU Cache",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 59,
+      "title": "Sort List",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B26",
+      "title": "Max Points on a Line",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "A13",
+      "title": "Evaluate Reverse Polish Notation",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 36,
+      "title": "Maximum Product Subarray",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/maximum-product-subarray/solutions/5958836/python-two-pass-approach-kadane-s-algorithm/"
+    },
+    {
+      "id": "A10",
+      "title": "Min Stack",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B27",
+      "title": "Intersection of Two Linked Lists",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 88,
+      "title": "Find Peak Element",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/find-peak-element/solutions/5928769/python-binary-search/"
+    },
+    {
+      "id": "B28",
+      "title": "Missing Ranges",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "B29",
+      "title": "Fraction to Recurring Decimal",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 166,
+      "title": "Majority Element",
+      "difficulty": "Easy",
+      "solution": "https://leetcode.com/problems/majority-element/solutions/5862290/python-sorting-hashmap-moore-s-voting-algorithm/"
+    },
+    {
+      "id": "B30",
+      "title": "Excel Sheet Column Number",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "B31",
+      "title": "Factorial Trailing Zeroes",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B32",
+      "title": "Largest Number",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B33",
+      "title": "Rotate Array",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B34",
+      "title": "Reverse Bits",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "B35",
+      "title": "Number of 1 Bits",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 30,
+      "title": "House Robber",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/house-robber/solutions/5954552/python-dynamic-programming-iterative-recursive-iterative-constant-space/"
+    },
+    {
+      "id": 62,
+      "title": "Number of Islands",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/number-of-islands/solutions/5919100/python-dfs-bfs-union-find/"
+    },
+    {
+      "id": "B36",
+      "title": "Happy Number",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "B37",
+      "title": "Count Primes",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 52,
+      "title": "Reverse Linked List",
+      "difficulty": "Easy",
+      "solution": "https://leetcode.com/problems/reverse-linked-list/solutions/5862010/python-reversal-of-a-linked-list/"
+    },
+    {
+      "id": 114,
+      "title": "Course Schedule",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/course-schedule/solutions/5921891/python-topological-sort-bfs-topological-sort-dfs/"
+    },
+    {
+      "id": 141,
+      "title": "Implement Trie (Prefix Tree)",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/implement-trie-prefix-tree/solutions/5933800/python-trie-design/"
+    },
+    {
+      "id": 115,
+      "title": "Course Schedule II",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/course-schedule-ii/solutions/5922023/python-topological-sort-bfs-topological-sort-dfs/"
+    },
+    {
+      "id": 144,
+      "title": "Word Search II",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 109,
+      "title": "Kth Largest Element in an Array",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 0,
+      "title": "Contains Duplicate",
+      "difficulty": "Easy",
+      "solution": "https://leetcode.com/problems/contains-duplicate/solutions/5844258/3-python-approaches-brute-force-sorting-set/"
+    },
+    {
+      "id": "B38",
+      "title": "The Skyline Problem",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "B39",
+      "title": "Basic Calculator II",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 105,
+      "title": "Kth Smallest Element in a BST",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/solutions/5938150/python-dfs/"
+    },
+    {
+      "id": 53,
+      "title": "Palindrome Linked List",
+      "difficulty": "Easy",
+      "solution": "https://leetcode.com/problems/palindrome-linked-list/solutions/5858010/python-2-approaches-fast-slow-pointers-stack-or-reversal/"
+    },
+    {
+      "id": 136,
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solutions/5948071/python-dfs/"
+    },
+    {
+      "id": "B40",
+      "title": "Delete Node in a Linked List",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 4,
+      "title": "Product of Array Except Self",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/product-of-array-except-self/solutions/5888354/python-brute-force-dp-prefix-sum/"
+    },
+    {
+      "id": 99,
+      "title": "Sliding Window Maximum",
+      "difficulty": "Hard",
+      "solution": "https://leetcode.com/problems/sliding-window-maximum/solutions/5979982/python-sliding-window-monotonically-increasing-queue/"
+    },
+    {
+      "id": 92,
+      "title": "Search a 2D Matrix II",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/search-a-2d-matrix-ii/solutions/5928855/python-two-pointer/"
+    },
+    {
+      "id": "A2",
+      "title": "Valid Anagram",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "B41",
+      "title": "Flatten 2D Vector",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 79,
+      "title": "Meeting Rooms II",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 1,
+      "title": "Missing Number",
+      "difficulty": "Easy",
+      "solution": "https://leetcode.com/problems/missing-number/solutions/5844258/3-python-approaches-brute-force-sorting-set/"
+    },
+    {
+      "id": 117,
+      "title": "Alien Dictionary",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "B42",
+      "title": "Find the Celebrity",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B43",
+      "title": "Perfect Squares",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 168,
+      "title": "Move Zeroes",
+      "difficulty": "Easy",
+      "solution": "https://leetcode.com/problems/move-zeroes/solutions/5853841/python-one-pass/"
+    },
+    {
+      "id": "B44",
+      "title": "Inorder Successor in BST",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 5,
+      "title": "Find the Duplicate Number",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/find-the-duplicate-number/solutions/5900458/python-brute-force-fast-slow-pointers/"
+    },
+    {
+      "id": "B45",
+      "title": "Game of Life",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 145,
+      "title": "Find Median from Data Stream",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 143,
+      "title": "Serialize and Deserialize Binary Tree",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 37,
+      "title": "Longest Increasing Subsequence",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/longest-increasing-subsequence/solutions/5762793/python-iterative-dp-recursive-dp-patient-sorting-binary-search/"
+    },
+    {
+      "id": "B46",
+      "title": "Range Sum Query 2D - Mutable",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "B47",
+      "title": "Count of Smaller Numbers After Self",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 35,
+      "title": "Coin Change",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/coin-change/solutions/5958780/python-recursive-dp-recursive-dp-memoization-iterative-tabulation/"
+    },
+    {
+      "id": "B48",
+      "title": "Wiggle Sort II",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B49",
+      "title": "Power of Three",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 68,
+      "title": "Odd Even Linked List",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B50",
+      "title": "Longest Increasing Path in a Matrix",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "B51",
+      "title": "Increasing Triplet Subsequence",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B52",
+      "title": "Longest Substring with At Most K Distinct Characters",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B53",
+      "title": "Flatten Nested List Iterator",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B54",
+      "title": "Reverse String",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 107,
+      "title": "Top K Frequent Elements",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B55",
+      "title": "Design Tic-Tac-Toe",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B56",
+      "title": "Intersection of Two Arrays II",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "B57",
+      "title": "Sum of Two Integers",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 71,
+      "title": "Kth Smallest Element in a Sorted Matrix",
+      "difficulty": "Medium",
+      "solution": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/solutions/5922748/python-binary-search-heap/"
+    },
+    {
+      "id": "B58",
+      "title": "Insert Delete GetRandom O(1)",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B59",
+      "title": "Shuffle an Array",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B60",
+      "title": "First Unique Character in a String",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "B61",
+      "title": "Longest Substring with At Least K Repeating Characters",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "B62",
+      "title": "Fizz Buzz",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "B63",
+      "title": "4Sum II",
+      "difficulty": "Medium"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "data": [
+      {
+        "id": 0,
+        "title": "Two Sum",
+        "slug": "two-sum",
+        "pattern": [
+          "Two Pointers"
+        ],
+        "difficulty": "Easy",
+        "premium": false
+      }
+    ]
+}
