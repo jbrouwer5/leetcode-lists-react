@@ -29,6 +29,7 @@ function About() {
       >
         Grind75
       </a>
+      <br />
       <a
         href="https://seanprashad.com/leetcode-patterns/"
         target="_blank"
@@ -36,6 +37,7 @@ function About() {
       >
         Sean Prashad's LeetCode Patterns
       </a>
+      <br />
       <a
         href="https://leetcode.com/studyplan/top-interview-150/"
         target="_blank"
@@ -43,6 +45,7 @@ function About() {
       >
         Top Interview 150
       </a>
+      <br />
     </>
   );   
 }
