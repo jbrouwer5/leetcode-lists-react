@@ -11,16 +11,54 @@ import "./App.css";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/leetcode">
       <h1>LeetCode Lists</h1>
 
       <nav>
         <ul>
-          <li><NavLink to="/" className={({ isActive }) => (isActive ? "active" : undefined)}>Home</NavLink></li>
-          <li><NavLink to="/about" className={({ isActive }) => (isActive ? "active" : undefined)}>About</NavLink></li>
-          <li><NavLink to="/grind75" className={({ isActive }) => (isActive ? "active" : undefined)} state={{ data: Grind75.data }}>Grind75</NavLink></li>
-          <li><NavLink to="/seanprashad" className={({ isActive }) => (isActive ? "active" : undefined)} state={{ data: SeanPrashad.data }}>Sean Prashad</NavLink></li>
-          <li><NavLink to="/leetcodetopinterview" className={({ isActive }) => (isActive ? "active" : undefined)} state={{ data: Top150.data }}>LeetCode Top Interview</NavLink></li>
+          <li>
+            <NavLink
+              to="/"
+              className={({ isActive }) => (isActive ? "active" : undefined)}
+            >
+              Home
+            </NavLink>
+          </li>
+          <li>
+            <NavLink
+              to="/about"
+              className={({ isActive }) => (isActive ? "active" : undefined)}
+            >
+              About
+            </NavLink>
+          </li>
+          <li>
+            <NavLink
+              to="/grind75"
+              className={({ isActive }) => (isActive ? "active" : undefined)}
+              state={{ data: Grind75.data }}
+            >
+              Grind75
+            </NavLink>
+          </li>
+          <li>
+            <NavLink
+              to="/seanprashad"
+              className={({ isActive }) => (isActive ? "active" : undefined)}
+              state={{ data: SeanPrashad.data }}
+            >
+              Sean Prashad
+            </NavLink>
+          </li>
+          <li>
+            <NavLink
+              to="/leetcodetopinterview"
+              className={({ isActive }) => (isActive ? "active" : undefined)}
+              state={{ data: Top150.data }}
+            >
+              LeetCode Top Interview
+            </NavLink>
+          </li>
         </ul>
       </nav>
 
