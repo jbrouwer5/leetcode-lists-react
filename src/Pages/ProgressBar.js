@@ -1,18 +1,18 @@
 // ProgressBar.js
 import React from "react";
-import "../App.css"; 
+import styles from "./ProgressBar.module.css";
 
 const ProgressBar = ({ label, solved, total, color }) => {
   const percentage = total > 0 ? (solved / total) * 100 : 0;
 
   return (
     <>
-      <div className="progress-bar-margin">
+      <div className={styles.ProgressBarMargin}>
         <strong>{label}:</strong> {solved} / {total} questions solved
       </div>
-      <div className="progress-bar-border">
+      <div className={styles.ProgressBarBorder}>
         <div
-          className="progress-bar"
+          className={styles.ProgressBar}
           style={{
             width: `${percentage}%`,
             background: color,

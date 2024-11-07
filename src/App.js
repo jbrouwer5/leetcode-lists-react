@@ -7,35 +7,31 @@ import NotFound from "./Pages/NotFound";
 import Grind75 from "./data/grind75.json";
 import SeanPrashad from "./data/seanPrashad.json";
 import Top150 from "./data/top150.json";
-import "./App.css";
+import styles from "./App.module.css";
 
 function App() {
   return (
     <Router>
-      <h1>LeetCode Lists</h1>
+      <h1 className={styles.heading}>LeetCode Lists</h1>
 
-      <nav>
-        <ul>
+      <nav className={styles.navBar}>
+        <ul className={styles.navList}>
           <li>
             <NavLink
               to="/"
-              className={({ isActive }) => (isActive ? "active" : undefined)}
+              className={({ isActive }) =>
+                isActive ? `${styles.active} ${styles.navLink}` : styles.navLink
+              }
             >
               Home
             </NavLink>
           </li>
           <li>
             <NavLink
-              to="/about"
-              className={({ isActive }) => (isActive ? "active" : undefined)}
-            >
-              About
-            </NavLink>
-          </li>
-          <li>
-            <NavLink
               to="/grind75"
-              className={({ isActive }) => (isActive ? "active" : undefined)}
+              className={({ isActive }) =>
+                isActive ? `${styles.active} ${styles.navLink}` : styles.navLink
+              }
               state={{ data: Grind75.data }}
             >
               Grind75
@@ -44,7 +40,9 @@ function App() {
           <li>
             <NavLink
               to="/seanprashad"
-              className={({ isActive }) => (isActive ? "active" : undefined)}
+              className={({ isActive }) =>
+                isActive ? `${styles.active} ${styles.navLink}` : styles.navLink
+              }
               state={{ data: SeanPrashad.data }}
             >
               Sean Prashad
@@ -53,10 +51,22 @@ function App() {
           <li>
             <NavLink
               to="/leetcodetop150"
-              className={({ isActive }) => (isActive ? "active" : undefined)}
+              className={({ isActive }) =>
+                isActive ? `${styles.active} ${styles.navLink}` : styles.navLink
+              }
               state={{ data: Top150.data }}
             >
               LeetCode Top 150
+            </NavLink>
+          </li>
+          <li>
+            <NavLink
+              to="/about"
+              className={({ isActive }) =>
+                isActive ? `${styles.active} ${styles.navLink}` : styles.navLink
+              }
+            >
+              About
             </NavLink>
           </li>
         </ul>

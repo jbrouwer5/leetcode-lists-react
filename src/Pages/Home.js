@@ -1,10 +1,10 @@
-// Home.js
 import React from "react";
+import styles from "./Home.module.css";
 
 function Home() {
   return (
-    <p> 
-        A collection of currated LeetCode problems along with linked solutions. 
+    <p className={styles.homeText}>
+      A collection of curated LeetCode problems along with linked solutions.
     </p>
   );
 }
