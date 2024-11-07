@@ -1,5 +1,5 @@
 {
-  "data2": [
+  "data": [
     {
       "slug": "two-sum",
       "title": "Two Sum",
@@ -7,7 +7,7 @@
       "duration": 15,
       "epi": null,
       "difficulty": "Easy",
-      "id": "43",
+      "id": 43,
       "routines": ["hashing"],
       "pattern": ["Arrays"],
       "solution": "https://leetcode.com/problems/two-sum/solutions/5862553/python-brute-force-hashmap/"
@@ -19,7 +19,7 @@
       "duration": 20,
       "epi": 3,
       "difficulty": "Easy",
-      "id": "51",
+      "id": 51,
       "routines": [],
       "pattern": ["Stack"]
     },
@@ -30,7 +30,7 @@
       "duration": 20,
       "epi": 0,
       "difficulty": "Easy",
-      "id": "58",
+      "id": 58,
       "routines": [],
       "pattern": ["Linked List"],
       "solution": "https://leetcode.com/problems/merge-two-sorted-lists/solutions/5862336/python-merge-two-linked-lists/"
@@ -42,7 +42,7 @@
       "duration": 20,
       "epi": 0,
       "difficulty": "Easy",
-      "id": "6",
+      "id": 6,
       "routines": [],
       "pattern": ["Arrays"],
       "solution": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/5858039/python-2-approaches-brute-force-remember-lowest-stock-price/"
@@ -54,7 +54,7 @@
       "duration": 15,
       "epi": 2,
       "difficulty": "Easy",
-      "id": "24",
+      "id": 24,
       "routines": ["palindrome"],
       "pattern": ["String"]
     },
@@ -65,7 +65,7 @@
       "duration": 15,
       "epi": null,
       "difficulty": "Easy",
-      "id": "69",
+      "id": 69,
       "routines": [],
       "pattern": ["Binary Tree"],
       "solution": "https://leetcode.com/problems/invert-binary-tree/solutions/5856996/python-2-approaches-dfs-3-line-dfs/"
@@ -77,7 +77,7 @@
       "duration": 15,
       "epi": null,
       "difficulty": "Easy",
-      "id": "41",
+      "id": 41,
       "routines": ["anagram"],
       "pattern": ["String"]
     },
@@ -88,7 +88,7 @@
       "duration": 15,
       "epi": null,
       "difficulty": "Easy",
-      "id": "150",
+      "id": 150,
       "routines": [],
       "pattern": ["Binary Search"],
       "solution": "https://leetcode.com/problems/binary-search/solutions/5853985/python-binary-search/"
@@ -100,7 +100,7 @@
       "duration": 20,
       "epi": 2,
       "difficulty": "Easy",
-      "id": "151",
+      "id": 151,
       "routines": ["matrix", "depth-first-search"],
       "pattern": ["Graph"]
     },
@@ -111,7 +111,7 @@
       "duration": 20,
       "epi": 1,
       "difficulty": "Easy",
-      "id": "152",
+      "id": 152,
       "routines": [],
       "pattern": ["Binary Search Tree"],
       "solution": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solutions/5938252/python-dfs/"
@@ -123,7 +123,7 @@
       "duration": 15,
       "epi": 0,
       "difficulty": "Easy",
-      "id": "153",
+      "id": 153,
       "routines": [],
       "pattern": ["Binary Tree"]
     },
@@ -134,7 +134,7 @@
       "duration": 20,
       "epi": 1,
       "difficulty": "Easy",
-      "id": "56",
+      "id": 56,
       "routines": ["two-pointers"],
       "pattern": ["Linked List"],
       "solution": "https://leetcode.com/problems/linked-list-cycle/solutions/5857684/python-two-pointer-fast-slow-approach/"
@@ -146,7 +146,7 @@
       "duration": 20,
       "epi": 3,
       "difficulty": "Easy",
-      "id": "154",
+      "id": 154,
       "routines": [],
       "pattern": ["Stack"]
     },
@@ -157,7 +157,7 @@
       "duration": 20,
       "epi": null,
       "difficulty": "Easy",
-      "id": "155",
+      "id": 155,
       "routines": [],
       "pattern": ["Binary Search"]
     },
@@ -168,7 +168,7 @@
       "duration": 15,
       "epi": 0,
       "difficulty": "Easy",
-      "id": "38",
+      "id": 38,
       "routines": [],
       "pattern": ["Hash Table"]
     },
@@ -179,7 +179,7 @@
       "duration": 20,
       "epi": null,
       "difficulty": "Easy",
-      "id": "136",
+      "id": 136,
       "routines": [],
       "pattern": ["Dynamic Programming"],
       "solution": "https://leetcode.com/problems/climbing-stairs/solutions/5857570/python-3-approaches-dp-dp-memoization-iterative-dp-fibonacci/"
@@ -191,7 +191,7 @@
       "duration": 20,
       "epi": 2,
       "difficulty": "Easy",
-      "id": "156",
+      "id": 156,
       "routines": ["palindrome"],
       "pattern": ["String"]
     },
@@ -202,7 +202,7 @@
       "duration": 20,
       "epi": 1,
       "difficulty": "Easy",
-      "id": "157",
+      "id": 157,
       "routines": [],
       "pattern": ["Linked List"],
       "solution": "https://leetcode.com/problems/reverse-linked-list/solutions/5862010/python-reversal-of-a-linked-list/"
@@ -214,7 +214,7 @@
       "duration": 20,
       "epi": 2,
       "difficulty": "Easy",
-      "id": "4",
+      "id": 4,
       "routines": ["sorting"],
       "pattern": ["Arrays"],
       "solution": "https://leetcode.com/problems/majority-element/solutions/5862290/python-sorting-hashmap-moore-s-voting-algorithm/"
@@ -226,7 +226,7 @@
       "duration": 15,
       "epi": null,
       "difficulty": "Easy",
-      "id": "124",
+      "id": 124,
       "routines": [],
       "pattern": ["Binary"]
     },
@@ -237,7 +237,7 @@
       "duration": 30,
       "epi": null,
       "difficulty": "Easy",
-      "id": "158",
+      "id": 158,
       "routines": [],
       "pattern": ["Binary Tree"],
       "solution": "https://leetcode.com/problems/diameter-of-binary-tree/solutions/5854371/python-dfs/"
@@ -249,7 +249,7 @@
       "duration": 20,
       "epi": null,
       "difficulty": "Easy",
-      "id": "159",
+      "id": 159,
       "routines": ["two-pointers"],
       "pattern": ["Linked List"],
       "solution": "https://leetcode.com/problems/middle-of-the-linked-list/solutions/5708801/python-two-pointer-fast-and-slow-pointers/"
@@ -261,7 +261,7 @@
       "duration": 15,
       "epi": null,
       "difficulty": "Easy",
-      "id": "67",
+      "id": 67,
       "routines": [],
       "pattern": ["Binary Tree"],
       "solution": "https://leetcode.com/problems/maximum-depth-of-binary-tree/solutions/5711629/python-dfs/"
@@ -273,7 +273,7 @@
       "duration": 15,
       "epi": null,
       "difficulty": "Easy",
-      "id": "160",
+      "id": 160,
       "routines": ["hash-table", "sorting"],
       "pattern": ["Arrays"],
       "solution": "https://leetcode.com/problems/contains-duplicate/solutions/5844258/3-python-approaches-brute-force-sorting-set/"
@@ -285,7 +285,7 @@
       "duration": 20,
       "epi": 0,
       "difficulty": "Medium",
-      "id": "53",
+      "id": 53,
       "routines": [],
       "pattern": ["Stack"]
     },
@@ -296,7 +296,7 @@
       "duration": 20,
       "epi": null,
       "difficulty": "Medium",
-      "id": "111",
+      "id": 111,
       "routines": [],
       "pattern": ["Dynamic Programming"],
       "solution": "https://leetcode.com/problems/maximum-subarray/solutions/5955232/python-dynamic-programming/"
@@ -308,7 +308,7 @@
       "duration": 25,
       "epi": null,
       "difficulty": "Medium",
-      "id": "49",
+      "id": 49,
       "routines": ["interval"],
       "pattern": ["Arrays"]
     },
@@ -319,7 +319,7 @@
       "duration": 30,
       "epi": null,
       "difficulty": "Medium",
-      "id": "161",
+      "id": 161,
       "routines": ["breadth-first-search"],
       "pattern": ["Graph"]
     },
@@ -330,7 +330,7 @@
       "duration": 30,
       "epi": 1,
       "difficulty": "Medium",
-      "id": "162",
+      "id": 162,
       "routines": ["geometry"],
       "pattern": ["Heap"]
     },
@@ -341,7 +341,7 @@
       "duration": 30,
       "epi": null,
       "difficulty": "Medium",
-      "id": "30",
+      "id": 30,
       "routines": ["sliding-window"],
       "pattern": ["String"]
     },
@@ -352,7 +352,7 @@
       "duration": 30,
       "epi": 0,
       "difficulty": "Medium",
-      "id": "28",
+      "id": 28,
       "routines": ["two-pointers"],
       "pattern": ["Arrays"]
     },
@@ -363,7 +363,7 @@
       "duration": 20,
       "epi": 1,
       "difficulty": "Medium",
-      "id": "83",
+      "id": 83,
       "routines": [],
       "pattern": ["Binary Tree"],
       "solution": "https://leetcode.com/problems/binary-tree-level-order-traversal/solutions/5922459/python-bfs/"
@@ -375,7 +375,7 @@
       "duration": 25,
       "epi": null,
       "difficulty": "Medium",
-      "id": "90",
+      "id": 90,
       "routines": ["depth-first-search", "breadth-first-search"],
       "pattern": ["Graph"]
     },
@@ -386,7 +386,7 @@
       "duration": 30,
       "epi": 2,
       "difficulty": "Medium",
-      "id": "54",
+      "id": 54,
       "routines": [],
       "pattern": ["Stack"]
     },
@@ -397,7 +397,7 @@
       "duration": 30,
       "epi": null,
       "difficulty": "Medium",
-      "id": "92",
+      "id": 92,
       "routines": ["topo-sort"],
       "pattern": ["Graph"],
       "solution": "https://leetcode.com/problems/course-schedule/solutions/5921891/python-topological-sort-bfs-topological-sort-dfs/"
@@ -409,7 +409,7 @@
       "duration": 35,
       "epi": null,
       "difficulty": "Medium",
-      "id": "97",
+      "id": 97,
       "routines": [],
       "pattern": ["Trie"],
       "solution": "https://leetcode.com/problems/implement-trie-prefix-tree/solutions/5933800/python-trie-design/"
@@ -421,7 +421,7 @@
       "duration": 25,
       "epi": null,
       "difficulty": "Medium",
-      "id": "139",
+      "id": 139,
       "routines": [],
       "pattern": ["Dynamic Programming"],
       "solution": "https://leetcode.com/problems/coin-change/solutions/5958780/python-recursive-dp-recursive-dp-memoization-iterative-tabulation/"
@@ -433,7 +433,7 @@
       "duration": 30,
       "epi": null,
       "difficulty": "Medium",
-      "id": "12",
+      "id": 12,
       "routines": ["prefix-sum"],
       "pattern": ["Arrays"],
       "solution": "https://leetcode.com/problems/product-of-array-except-self/solutions/5888354/python-brute-force-dp-prefix-sum/"
@@ -445,7 +445,7 @@
       "duration": 20,
       "epi": null,
       "difficulty": "Medium",
-      "id": "87",
+      "id": 87,
       "routines": [],
       "pattern": ["Binary Search Tree"],
       "solution": "https://leetcode.com/problems/validate-binary-search-tree/solutions/5953909/python-dfs/"
@@ -457,7 +457,7 @@
       "duration": 25,
       "epi": null,
       "difficulty": "Medium",
-      "id": "88",
+      "id": 88,
       "routines": ["depth-first-search", " breadth-first-search"],
       "pattern": ["Graph"],
       "solution": "https://leetcode.com/problems/number-of-islands/solutions/5919100/python-dfs-bfs-union-find/"
@@ -469,7 +469,7 @@
       "duration": 30,
       "epi": null,
       "difficulty": "Medium",
-      "id": "163",
+      "id": 163,
       "routines": ["breadth-first-search"],
       "pattern": ["Graph"]
     },
@@ -480,7 +480,7 @@
       "duration": 30,
       "epi": 2,
       "difficulty": "Medium",
-      "id": "116",
+      "id": 116,
       "routines": [],
       "pattern": ["Binary Search"],
       "solution": "https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/5928783/python-binary-search/"
@@ -492,7 +492,7 @@
       "duration": 30,
       "epi": null,
       "difficulty": "Medium",
-      "id": "103",
+      "id": 103,
       "routines": ["backtracking"],
       "pattern": ["Arrays"]
     },
@@ -503,7 +503,7 @@
       "duration": 30,
       "epi": 2,
       "difficulty": "Medium",
-      "id": "102",
+      "id": 102,
       "routines": ["backtracking"],
       "pattern": ["Recursion"]
     },
@@ -514,7 +514,7 @@
       "duration": 30,
       "epi": 3,
       "difficulty": "Medium",
-      "id": "48",
+      "id": 48,
       "routines": ["interval"],
       "pattern": ["Arrays"],
       "solution": "https://leetcode.com/problems/merge-intervals/solutions/5964650/python-merge-intervals-intervals-sorting/"
@@ -526,7 +526,7 @@
       "duration": 25,
       "epi": null,
       "difficulty": "Medium",
-      "id": "80",
+      "id": 80,
       "routines": [],
       "pattern": ["Binary Tree"],
       "solution": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solutions/5948071/python-dfs/"
@@ -538,7 +538,7 @@
       "duration": 35,
       "epi": null,
       "difficulty": "Medium",
-      "id": "164",
+      "id": 164,
       "routines": [],
       "pattern": ["Binary Search"]
     },
@@ -549,7 +549,7 @@
       "duration": 30,
       "epi": null,
       "difficulty": "Medium",
-      "id": "165",
+      "id": 165,
       "routines": ["depth-first-search", "union-find"],
       "pattern": ["Graph"]
     },
@@ -560,7 +560,7 @@
       "duration": 25,
       "epi": 0,
       "difficulty": "Medium",
-      "id": "166",
+      "id": 166,
       "routines": ["two-pointers"],
       "pattern": ["Arrays"]
     },
@@ -571,7 +571,7 @@
       "duration": 30,
       "epi": 2,
       "difficulty": "Medium",
-      "id": "138",
+      "id": 138,
       "routines": [],
       "pattern": ["Trie"],
       "solution": "https://leetcode.com/problems/word-break/solutions/5964625/python-iterative-dp-recursive-dp-memoization/"
@@ -583,7 +583,7 @@
       "duration": 30,
       "epi": 2,
       "difficulty": "Medium",
-      "id": "167",
+      "id": 167,
       "routines": [],
       "pattern": ["Dynamic Programming"]
     },
@@ -594,7 +594,7 @@
       "duration": 25,
       "epi": 0,
       "difficulty": "Medium",
-      "id": "168",
+      "id": 168,
       "routines": [],
       "pattern": ["String"]
     },
@@ -605,7 +605,7 @@
       "duration": 25,
       "epi": 1,
       "difficulty": "Medium",
-      "id": "34",
+      "id": 34,
       "routines": [],
       "pattern": ["Matrix"],
       "solution": "https://leetcode.com/problems/spiral-matrix/solutions/5913097/python-spiral-matrix-spiral-matrix-4-liner/"
@@ -617,7 +617,7 @@
       "duration": 30,
       "epi": 3,
       "difficulty": "Medium",
-      "id": "169",
+      "id": 169,
       "routines": ["backtracking"],
       "pattern": ["Recursion"],
       "solution": "https://leetcode.com/problems/subsets/solutions/5917942/python-iterative-recursive-backtracking-bit-manipulation/"
@@ -629,7 +629,7 @@
       "duration": 20,
       "epi": null,
       "difficulty": "Medium",
-      "id": "81",
+      "id": 81,
       "routines": [],
       "pattern": ["Binary Tree"],
       "solution": "https://leetcode.com/problems/binary-tree-right-side-view/solutions/5922557/python-bfs-dfs/"
@@ -641,7 +641,7 @@
       "duration": 25,
       "epi": null,
       "difficulty": "Medium",
-      "id": "144",
+      "id": 144,
       "routines": ["palindrome", "two-pointer", "dynamic-programming"],
       "pattern": ["String"],
       "solution": "https://leetcode.com/problems/longest-palindromic-substring/solutions/5964573/python-brute-force-expand-from-middle-manacher-s-algorithm/"
@@ -653,7 +653,7 @@
       "duration": 20,
       "epi": 2,
       "difficulty": "Medium",
-      "id": "170",
+      "id": 170,
       "routines": [],
       "pattern": ["Dynamic Programming"]
     },
@@ -664,7 +664,7 @@
       "duration": 25,
       "epi": 2,
       "difficulty": "Medium",
-      "id": "71",
+      "id": 71,
       "routines": [],
       "pattern": ["Binary Tree"],
       "solution": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/solutions/5953727/python-dfs/"
@@ -676,7 +676,7 @@
       "duration": 35,
       "epi": 2,
       "difficulty": "Medium",
-      "id": "27",
+      "id": 27,
       "routines": ["greedy", "two-pointers"],
       "pattern": ["Arrays"]
     },
@@ -687,7 +687,7 @@
       "duration": 30,
       "epi": 3,
       "difficulty": "Medium",
-      "id": "100",
+      "id": 100,
       "routines": ["backtracking"],
       "pattern": ["Recursion"]
     },
@@ -698,7 +698,7 @@
       "duration": 30,
       "epi": null,
       "difficulty": "Medium",
-      "id": "106",
+      "id": 106,
       "routines": ["backtracking"],
       "pattern": ["Graph"],
       "solution": "https://leetcode.com/problems/word-search/solutions/5913319/python-dfs-backtracking/"
@@ -710,7 +710,7 @@
       "duration": 30,
       "epi": null,
       "difficulty": "Medium",
-      "id": "171",
+      "id": 171,
       "routines": ["anagram"],
       "pattern": ["String"]
     },
@@ -721,7 +721,7 @@
       "duration": 30,
       "epi": null,
       "difficulty": "Medium",
-      "id": "172",
+      "id": 172,
       "routines": ["topo-sort"],
       "pattern": ["Graph"],
       "solution": "https://leetcode.com/problems/minimum-height-trees/solutions/5922194/python-topological-sort-bfs/"
@@ -733,7 +733,7 @@
       "duration": 35,
       "epi": null,
       "difficulty": "Medium",
-      "id": "173",
+      "id": 173,
       "routines": [],
       "pattern": ["Heap"]
     },
@@ -744,7 +744,7 @@
       "duration": 30,
       "epi": null,
       "difficulty": "Medium",
-      "id": "66",
+      "id": 66,
       "routines": ["hash-table"],
       "pattern": ["Linked List"]
     },
@@ -755,7 +755,7 @@
       "duration": 25,
       "epi": null,
       "difficulty": "Medium",
-      "id": "86",
+      "id": 86,
       "routines": [],
       "pattern": ["Binary Search Tree"],
       "solution": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/solutions/5938150/python-dfs/"
@@ -767,7 +767,7 @@
       "duration": 30,
       "epi": 3,
       "difficulty": "Hard",
-      "id": "32",
+      "id": 32,
       "routines": ["sliding-window"],
       "pattern": ["String"]
     },
@@ -778,7 +778,7 @@
       "duration": 40,
       "epi": null,
       "difficulty": "Hard",
-      "id": "174",
+      "id": 174,
       "routines": [],
       "pattern": ["Binary Tree"]
     },
@@ -789,7 +789,7 @@
       "duration": 35,
       "epi": null,
       "difficulty": "Hard",
-      "id": "15",
+      "id": 15,
       "routines": ["monotonic-stack"],
       "pattern": ["Stack"],
       "solution": "https://leetcode.com/problems/trapping-rain-water/solutions/5979699/python-two-pointer-maximum-value-reference-point/"
@@ -801,7 +801,7 @@
       "duration": 30,
       "epi": 3,
       "difficulty": "Hard",
-      "id": "123",
+      "id": 123,
       "routines": [],
       "pattern": ["Heap"]
     },
@@ -812,7 +812,7 @@
       "duration": 45,
       "epi": null,
       "difficulty": "Hard",
-      "id": "96",
+      "id": 96,
       "routines": ["breadth-first-search"],
       "pattern": ["Graph"]
     },
@@ -823,7 +823,7 @@
       "duration": 40,
       "epi": null,
       "difficulty": "Hard",
-      "id": "55",
+      "id": 55,
       "routines": ["parsing"],
       "pattern": ["Stack"]
     },
@@ -834,7 +834,7 @@
       "duration": 45,
       "epi": null,
       "difficulty": "Hard",
-      "id": "175",
+      "id": 175,
       "routines": ["dynamic-programming"],
       "pattern": ["Binary Search"]
     },
@@ -845,7 +845,7 @@
       "duration": 30,
       "epi": null,
       "difficulty": "Hard",
-      "id": "110",
+      "id": 110,
       "routines": [],
       "pattern": ["Heap"]
     },
@@ -856,7 +856,7 @@
       "duration": 35,
       "epi": 3,
       "difficulty": "Hard",
-      "id": "176",
+      "id": 176,
       "routines": ["monotonic-stack"],
       "pattern": ["Stack"]
     }

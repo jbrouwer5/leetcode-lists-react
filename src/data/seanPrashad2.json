@@ -1,347 +1,277 @@
 {
-  "data3": [
+  "data": [
     {
-      "id": "160",
+      "id": 160,
       "title": "Contains Duplicate",
       "slug": "contains-duplicate",
       "solution": "https://leetcode.com/problems/contains-duplicate/solutions/5844258/3-python-approaches-brute-force-sorting-set/",
-      "pattern": [
-        "Arrays"
-      ],
+      "pattern": ["Arrays"],
       "difficulty": "Easy",
       "premium": false
     },
     {
-      "id": "177",
+      "id": 177,
       "title": "Missing Number",
       "slug": "missing-number",
       "solution": "https://leetcode.com/problems/missing-number/solutions/5844258/3-python-approaches-brute-force-sorting-set/",
-      "pattern": [
-        "Arrays",
-        "Bit Manipulation"
-      ],
+      "pattern": ["Arrays", "Bit Manipulation"],
       "difficulty": "Easy",
       "premium": false
     },
     {
-      "id": "178",
+      "id": 178,
       "title": "Find All Numbers Disappeared in an Array",
       "slug": "find-all-numbers-disappeared-in-an-array",
       "solution": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/solutions/5844258/3-python-approaches-brute-force-sorting-set/",
-      "pattern": [
-        "Arrays"
-      ],
+      "pattern": ["Arrays"],
       "difficulty": "Easy",
       "premium": false
     },
     {
-      "id": "127",
+      "id": 127,
       "title": "Single Number",
       "slug": "single-number",
       "solution": "https://leetcode.com/problems/single-number/solutions/5850041/4-python-approaches-sorting-hashmap-set-sum-bit-manipulation/",
-      "pattern": [
-        "Arrays",
-        "Bit Manipulation"
-      ],
+      "pattern": ["Arrays", "Bit Manipulation"],
       "difficulty": "Easy",
       "premium": false
     },
     {
-      "id": "12",
+      "id": 12,
       "title": "Product of Array Except Self",
       "slug": "product-of-array-except-self",
       "solution": "https://leetcode.com/problems/product-of-array-except-self/solutions/5888354/python-brute-force-dp-prefix-sum/",
-      "pattern": [
-        "Arrays"
-      ],
+      "pattern": ["Arrays"],
       "difficulty": "Medium",
       "premium": false
     },
     {
-      "id": "179",
+      "id": 179,
       "title": "Find the Duplicate Number",
       "slug": "find-the-duplicate-number",
       "solution": "https://leetcode.com/problems/find-the-duplicate-number/solutions/5900458/python-brute-force-fast-slow-pointers/",
-      "pattern": [
-        "Arrays",
-        "Binary Search",
-        "Two Pointers"
-      ],
+      "pattern": ["Arrays", "Binary Search", "Two Pointers"],
       "difficulty": "Medium",
       "premium": false
     },
     {
-      "id": "180",
+      "id": 180,
       "title": "Find All Duplicates in an Array",
       "slug": "find-all-duplicates-in-an-array",
       "solution": "https://leetcode.com/problems/find-all-duplicates-in-an-array/solutions/5722909/python-negative-index-marking/",
-      "pattern": [
-        "Arrays"
-      ],
+      "pattern": ["Arrays"],
       "difficulty": "Medium",
       "premium": false
     },
     {
-      "id": "36",
+      "id": 36,
       "title": "Set Matrix Zeroes",
       "slug": "set-matrix-zeroes",
       "solution": "https://leetcode.com/problems/set-matrix-zeroes/solutions/5900755/python-column-row-header-marking-in-place-no-extra-space/",
-      "pattern": [
-        "Arrays"
-      ],
+      "pattern": ["Arrays"],
       "difficulty": "Medium",
       "premium": false
     },
     {
-      "id": "34",
+      "id": 34,
       "title": "Spiral Matrix",
       "slug": "spiral-matrix",
       "solution": "https://leetcode.com/problems/spiral-matrix/solutions/5913097/python-spiral-matrix-spiral-matrix-4-liner/",
-      "pattern": [
-        "Arrays"
-      ],
+      "pattern": ["Arrays"],
       "difficulty": "Medium",
       "premium": false
     },
     {
-      "id": "35",
+      "id": 35,
       "title": "Rotate Image",
       "slug": "rotate-image",
       "solution": "https://leetcode.com/problems/rotate-image/solutions/5726939/python-100-2-reflections-rotation-simple-code-explanation/",
-      "pattern": [
-        "Arrays"
-      ],
+      "pattern": ["Arrays"],
       "difficulty": "Medium",
       "premium": false
     },
     {
-      "id": "106",
+      "id": 106,
       "title": "Word Search",
       "slug": "word-search",
       "solution": "https://leetcode.com/problems/word-search/solutions/5913319/python-dfs-backtracking/",
-      "pattern": [
-        "Backtracking"
-      ],
+      "pattern": ["Backtracking"],
       "difficulty": "Medium",
       "premium": false
     },
     {
-      "id": "181",
+      "id": 181,
       "title": "First Missing Positive",
       "slug": "first-missing-positive",
       "solution": "https://leetcode.com/problems/first-missing-positive/solutions/5976407/python-sorting-hashmap-index-sorting-negative-marking/",
-      "pattern": [
-        "Arrays"
-      ],
+      "pattern": ["Arrays"],
       "difficulty": "Hard",
       "premium": false
     },
     {
-      "id": "46",
+      "id": 46,
       "title": "Longest Consecutive Sequence",
       "slug": "longest-consecutive-sequence",
       "solution": "https://leetcode.com/problems/longest-consecutive-sequence/solutions/5913249/python-sorting-hashmap-dp/",
-      "pattern": [
-        "Arrays"
-      ],
+      "pattern": ["Arrays"],
       "difficulty": "Medium",
       "premium": false
     },
     {
-      "id": "182",
+      "id": 182,
       "title": "Letter Case Permutation",
       "slug": "letter-case-permutation",
       "solution": "https://leetcode.com/problems/letter-case-permutation/solutions/5913593/python-backtracking/",
-      "pattern": [
-        "Backtracking"
-      ],
+      "pattern": ["Backtracking"],
       "difficulty": "Medium",
       "premium": false
     },
     {
-      "id": "169",
+      "id": 169,
       "title": "Subsets",
       "slug": "subsets",
       "solution": "https://leetcode.com/problems/subsets/solutions/5917942/python-iterative-recursive-backtracking-bit-manipulation/",
-      "pattern": [
-        "Backtracking"
-      ],
+      "pattern": ["Backtracking"],
       "difficulty": "Medium",
       "premium": false
     },
     {
-      "id": "183",
+      "id": 183,
       "title": "Subsets II",
       "slug": "subsets-ii",
       "solution": "https://leetcode.com/problems/subsets-ii/solutions/5918236/python-iterative/",
-      "pattern": [
-        "Backtracking"
-      ],
+      "pattern": ["Backtracking"],
       "difficulty": "Medium",
       "premium": false
     },
     {
-      "id": "102",
+      "id": 102,
       "title": "Permutations",
       "slug": "permutations",
-      "pattern": [
-        "Backtracking"
-      ],
+      "pattern": ["Backtracking"],
       "difficulty": "Medium",
       "premium": false
     },
     {
-      "id": "184",
+      "id": 184,
       "title": "Permutations II",
       "slug": "permutations-ii",
-      "pattern": [
-        "Backtracking"
-      ],
+      "pattern": ["Backtracking"],
       "difficulty": "Medium",
       "premium": false
     },
     {
-      "id": "101",
+      "id": 101,
       "title": "Combinations",
       "slug": "combinations",
-      "pattern": [
-        "Backtracking"
-      ],
+      "pattern": ["Backtracking"],
       "difficulty": "Medium",
       "premium": false
     },
     {
-      "id": "103",
+      "id": 103,
       "title": "Combination Sum",
       "slug": "combination-sum",
-      "pattern": [
-        "Backtracking"
-      ],
+      "pattern": ["Backtracking"],
       "difficulty": "Medium",
       "premium": false
     },
     {
-      "id": "185",
+      "id": 185,
       "title": "Combination Sum II",
       "slug": "combination-sum-ii",
-      "pattern": [
-        "Backtracking"
-      ],
+      "pattern": ["Backtracking"],
       "difficulty": "Medium",
       "premium": false
     },
     {
-      "id": "186",
+      "id": 186,
       "title": "Combination Sum III",
       "slug": "combination-sum-iii",
-      "pattern": [
-        "Backtracking"
-      ],
+      "pattern": ["Backtracking"],
       "difficulty": "Medium",
       "premium": false
     },
     {
-      "id": "105",
+      "id": 105,
       "title": "Generate Parentheses",
       "slug": "generate-parentheses",
-      "pattern": [
-        "Backtracking"
-      ],
+      "pattern": ["Backtracking"],
       "difficulty": "Medium",
       "premium": false
     },
     {
-      "id": "187",
+      "id": 187,
       "title": "Target Sum",
       "slug": "target-sum",
-      "pattern": [
-        "Backtracking",
-        "DFS",
-        "Dynamic Programming"
-      ],
+      "pattern": ["Backtracking", "DFS", "Dynamic Programming"],
       "difficulty": "Medium",
       "premium": false
     },
     {
-      "id": "188",
+      "id": 188,
       "title": "Palindrome Partitioning",
       "slug": "palindrome-partitioning",
-      "pattern": [
-        "Backtracking"
-      ],
+      "pattern": ["Backtracking"],
       "difficulty": "Medium",
       "premium": false
     },
     {
-      "id": "100",
+      "id": 100,
       "title": "Letter Combinations of a Phone Number",
       "slug": "letter-combinations-of-a-phone-number",
-      "pattern": [
-        "Backtracking"
-      ],
+      "pattern": ["Backtracking"],
       "difficulty": "Medium",
       "premium": false
     },
     {
-      "id": "189",
+      "id": 189,
       "title": "Generalized Abbreviation",
       "slug": "generalized-abbreviation",
-      "pattern": [
-        "Backtracking"
-      ],
+      "pattern": ["Backtracking"],
       "difficulty": "Medium",
       "premium": true
     },
     {
-      "id": "190",
+      "id": 190,
       "title": "Sudoku Solver",
       "slug": "sudoku-solver",
-      "pattern": [
-        "Backtracking"
-      ],
+      "pattern": ["Backtracking"],
       "difficulty": "Hard",
       "premium": false
     },
     {
-      "id": "191",
+      "id": 191,
       "title": "N-Queens",
       "slug": "n-queens",
-      "pattern": [
-        "Backtracking"
-      ],
+      "pattern": ["Backtracking"],
       "difficulty": "Hard",
       "premium": false
     },
     {
-      "id": "136",
+      "id": 136,
       "title": "Climbing Stairs",
       "slug": "climbing-stairs",
       "solution": "https://leetcode.com/problems/climbing-stairs/solutions/5857570/python-3-approaches-dp-dp-memoization-iterative-dp-fibonacci/",
-      "pattern": [
-        "Dynamic Programming"
-      ],
+      "pattern": ["Dynamic Programming"],
       "difficulty": "Easy",
       "premium": false
     },
     {
-      "id": "137",
+      "id": 137,
       "title": "House Robber",
       "slug": "house-robber",
       "solution": "https://leetcode.com/problems/house-robber/solutions/5954552/python-dynamic-programming-iterative-recursive-iterative-constant-space/",
-      "pattern": [
-        "Dynamic Programming"
-      ],
+      "pattern": ["Dynamic Programming"],
       "difficulty": "Medium",
       "premium": false
     },
     {
-      "id": "6",
+      "id": 6,
       "title": "Best Time to Buy and Sell Stock",
       "slug": "best-time-to-buy-and-sell-stock",
       "solution": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/5858039/python-2-approaches-brute-force-remember-lowest-stock-price/",
-      "pattern": [
-        "Greedy"
-      ],
+      "pattern": ["Greedy"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -548,13 +478,11 @@
       ]
     },
     {
-      "id": "111",
+      "id": 111,
       "title": "Maximum Subarray",
       "slug": "maximum-subarray",
       "solution": "https://leetcode.com/problems/maximum-subarray/solutions/5955232/python-dynamic-programming/",
-      "pattern": [
-        "Dynamic Programming"
-      ],
+      "pattern": ["Dynamic Programming"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -671,13 +599,11 @@
       ]
     },
     {
-      "id": "192",
+      "id": 192,
       "title": "Range Sum Query - Immutable",
       "slug": "range-sum-query-immutable",
       "solution": "https://leetcode.com/problems/range-sum-query-immutable/solutions/5857616/python-dp-prefix-sum/",
-      "pattern": [
-        "Dynamic Programming"
-      ],
+      "pattern": ["Dynamic Programming"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -704,13 +630,11 @@
       ]
     },
     {
-      "id": "193",
+      "id": 193,
       "title": "House Robber II",
       "slug": "house-robber-ii",
       "solution": "https://leetcode.com/problems/house-robber-ii/solutions/5955128/python-dynamic-programming-iterative-recursive-iterative-constant-space/",
-      "pattern": [
-        "Dynamic Programming"
-      ],
+      "pattern": ["Dynamic Programming"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -772,13 +696,11 @@
       ]
     },
     {
-      "id": "139",
+      "id": 139,
       "title": "Coin Change",
       "slug": "coin-change",
       "solution": "https://leetcode.com/problems/coin-change/solutions/5958780/python-recursive-dp-recursive-dp-memoization-iterative-tabulation/",
-      "pattern": [
-        "Dynamic Programming"
-      ],
+      "pattern": ["Dynamic Programming"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -860,13 +782,11 @@
       ]
     },
     {
-      "id": "194",
+      "id": 194,
       "title": "Maximum Product Subarray",
       "slug": "maximum-product-subarray",
       "solution": "https://leetcode.com/problems/maximum-product-subarray/solutions/5958836/python-two-pass-approach-kadane-s-algorithm/",
-      "pattern": [
-        "Dynamic Programming"
-      ],
+      "pattern": ["Dynamic Programming"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -948,13 +868,11 @@
       ]
     },
     {
-      "id": "140",
+      "id": 140,
       "title": "Longest Increasing Subsequence",
       "slug": "longest-increasing-subsequence",
       "solution": "https://leetcode.com/problems/longest-increasing-subsequence/solutions/5762793/python-iterative-dp-recursive-dp-patient-sorting-binary-search/",
-      "pattern": [
-        "Dynamic Programming"
-      ],
+      "pattern": ["Dynamic Programming"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -1026,13 +944,11 @@
       ]
     },
     {
-      "id": "144",
+      "id": 144,
       "title": "Longest Palindromic Substring",
       "slug": "longest-palindromic-substring",
       "solution": "https://leetcode.com/problems/longest-palindromic-substring/solutions/5964573/python-brute-force-expand-from-middle-manacher-s-algorithm/",
-      "pattern": [
-        "Dynamic Programming"
-      ],
+      "pattern": ["Dynamic Programming"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -1179,13 +1095,11 @@
       ]
     },
     {
-      "id": "138",
+      "id": 138,
       "title": "Word Break",
       "slug": "word-break",
       "solution": "https://leetcode.com/problems/word-break/solutions/5964625/python-iterative-dp-recursive-dp-memoization/",
-      "pattern": [
-        "Dynamic Programming"
-      ],
+      "pattern": ["Dynamic Programming"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -1257,12 +1171,10 @@
       ]
     },
     {
-      "id": "195",
+      "id": 195,
       "title": "Combination Sum IV",
       "slug": "combination-sum-iv",
-      "pattern": [
-        "Dynamic Programming"
-      ],
+      "pattern": ["Dynamic Programming"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -1274,12 +1186,10 @@
       ]
     },
     {
-      "id": "196",
+      "id": 196,
       "title": "Decode Ways",
       "slug": "decode-ways",
-      "pattern": [
-        "Dynamic Programming"
-      ],
+      "pattern": ["Dynamic Programming"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -1341,12 +1251,10 @@
       ]
     },
     {
-      "id": "170",
+      "id": 170,
       "title": "Unique Paths",
       "slug": "unique-paths",
-      "pattern": [
-        "Dynamic Programming"
-      ],
+      "pattern": ["Dynamic Programming"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -1398,13 +1306,10 @@
       ]
     },
     {
-      "id": "8",
+      "id": 8,
       "title": "Jump Game",
       "slug": "jump-game",
-      "pattern": [
-        "Dynamic Programming",
-        "Greedy"
-      ],
+      "pattern": ["Dynamic Programming", "Greedy"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -1481,12 +1386,10 @@
       ]
     },
     {
-      "id": "197",
+      "id": 197,
       "title": "Palindromic Substrings",
       "slug": "palindromic-substrings",
-      "pattern": [
-        "Dynamic Programming"
-      ],
+      "pattern": ["Dynamic Programming"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -1538,12 +1441,10 @@
       ]
     },
     {
-      "id": "198",
+      "id": 198,
       "title": "Number of Longest Increasing Subsequence",
       "slug": "number-of-longest-increasing-subsequence",
-      "pattern": [
-        "Dynamic Programming"
-      ],
+      "pattern": ["Dynamic Programming"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -1555,12 +1456,10 @@
       ]
     },
     {
-      "id": "167",
+      "id": 167,
       "title": "Partition Equal Subset Sum",
       "slug": "partition-equal-subset-sum",
-      "pattern": [
-        "Dynamic Programming"
-      ],
+      "pattern": ["Dynamic Programming"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -1607,12 +1506,10 @@
       ]
     },
     {
-      "id": "199",
+      "id": 199,
       "title": "Partition to K Equal Sum Subsets",
       "slug": "partition-to-k-equal-sum-subsets",
-      "pattern": [
-        "Dynamic Programming"
-      ],
+      "pattern": ["Dynamic Programming"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -1634,12 +1531,10 @@
       ]
     },
     {
-      "id": "200",
+      "id": 200,
       "title": "Best Time to Buy and Sell Stock with Cooldown",
       "slug": "best-time-to-buy-and-sell-stock-with-cooldown",
-      "pattern": [
-        "Dynamic Programming"
-      ],
+      "pattern": ["Dynamic Programming"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -1651,14 +1546,11 @@
       ]
     },
     {
-      "id": "201",
+      "id": 201,
       "title": "Counting Bits",
       "slug": "counting-bits",
       "solution": "https://leetcode.com/problems/counting-bits/solutions/5857660/python-2-approaches-bit-counting-dp-bit-counting-memoization/",
-      "pattern": [
-        "Dynamic Programming",
-        "Bit Manipulation"
-      ],
+      "pattern": ["Dynamic Programming", "Bit Manipulation"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -1670,13 +1562,11 @@
       ]
     },
     {
-      "id": "56",
+      "id": 56,
       "title": "Linked List Cycle",
       "slug": "linked-list-cycle",
       "solution": "https://leetcode.com/problems/linked-list-cycle/solutions/5857684/python-two-pointer-fast-slow-approach/",
-      "pattern": [
-        "Fast & Slow Pointers"
-      ],
+      "pattern": ["Fast & Slow Pointers"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -1728,13 +1618,11 @@
       ]
     },
     {
-      "id": "159",
+      "id": 159,
       "title": "Middle of the Linked List",
       "slug": "middle-of-the-linked-list",
       "solution": "https://leetcode.com/problems/middle-of-the-linked-list/solutions/5708801/python-two-pointer-fast-and-slow-pointers/",
-      "pattern": [
-        "Fast & Slow Pointers"
-      ],
+      "pattern": ["Fast & Slow Pointers"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -1781,13 +1669,11 @@
       ]
     },
     {
-      "id": "157",
+      "id": 157,
       "title": "Reverse Linked List",
       "slug": "reverse-linked-list",
       "solution": "https://leetcode.com/problems/reverse-linked-list/solutions/5862010/python-reversal-of-a-linked-list/",
-      "pattern": [
-        "In-place reversal of a linked list"
-      ],
+      "pattern": ["In-place reversal of a linked list"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -1849,13 +1735,11 @@
       ]
     },
     {
-      "id": "202",
+      "id": 202,
       "title": "Palindrome Linked List",
       "slug": "palindrome-linked-list",
       "solution": "https://leetcode.com/problems/palindrome-linked-list/solutions/5858010/python-2-approaches-fast-slow-pointers-stack-or-reversal/",
-      "pattern": [
-        "Fast & Slow Pointers"
-      ],
+      "pattern": ["Fast & Slow Pointers"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -1907,13 +1791,11 @@
       ]
     },
     {
-      "id": "203",
+      "id": 203,
       "title": "Remove Linked List Elements",
       "slug": "remove-linked-list-elements",
       "solution": "https://leetcode.com/problems/remove-linked-list-elements/solutions/5709055/o-n-time-o-1-space/",
-      "pattern": [
-        "Fast & Slow Pointers"
-      ],
+      "pattern": ["Fast & Slow Pointers"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -1935,13 +1817,11 @@
       ]
     },
     {
-      "id": "204",
+      "id": 204,
       "title": "Remove Duplicates from Sorted List",
       "slug": "remove-duplicates-from-sorted-list",
       "solution": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/solutions/5709063/6-line-simple-python-o-n/",
-      "pattern": [
-        "Fast & Slow Pointers"
-      ],
+      "pattern": ["Fast & Slow Pointers"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -1973,13 +1853,11 @@
       ]
     },
     {
-      "id": "205",
+      "id": 205,
       "title": "Linked List Cycle II",
       "slug": "linked-list-cycle-ii",
       "solution": "https://leetcode.com/problems/linked-list-cycle-ii/solutions/5964644/python-fast-slow-pointers/",
-      "pattern": [
-        "Fast & Slow Pointers"
-      ],
+      "pattern": ["Fast & Slow Pointers"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -2011,13 +1889,11 @@
       ]
     },
     {
-      "id": "57",
+      "id": 57,
       "title": "Add Two Numbers",
       "slug": "add-two-numbers",
       "solution": "https://leetcode.com/problems/add-two-numbers/solutions/5964670/python-add-two-numbers-two-pointers/",
-      "pattern": [
-        "Fast & Slow Pointers"
-      ],
+      "pattern": ["Fast & Slow Pointers"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -2114,12 +1990,10 @@
       ]
     },
     {
-      "id": "62",
+      "id": 62,
       "title": "Remove Nth Node From End of List",
       "slug": "remove-nth-node-from-end-of-list",
-      "pattern": [
-        "Fast & Slow Pointers"
-      ],
+      "pattern": ["Fast & Slow Pointers"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -2166,12 +2040,10 @@
       ]
     },
     {
-      "id": "108",
+      "id": 108,
       "title": "Sort List",
       "slug": "sort-list",
-      "pattern": [
-        "Fast & Slow Pointers"
-      ],
+      "pattern": ["Fast & Slow Pointers"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -2208,12 +2080,10 @@
       ]
     },
     {
-      "id": "206",
+      "id": 206,
       "title": "Reorder List",
       "slug": "reorder-list",
-      "pattern": [
-        "Fast & Slow Pointers"
-      ],
+      "pattern": ["Fast & Slow Pointers"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -2260,14 +2130,11 @@
       ]
     },
     {
-      "id": "207",
+      "id": 207,
       "title": "Pacific Atlantic Water Flow",
       "slug": "pacific-atlantic-water-flow",
       "solution": "https://leetcode.com/problems/pacific-atlantic-water-flow/solutions/5918729/python-dfs-bfs/",
-      "pattern": [
-        "BFS",
-        "DFS"
-      ],
+      "pattern": ["BFS", "DFS"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -2299,15 +2166,11 @@
       ]
     },
     {
-      "id": "88",
+      "id": 88,
       "title": "Number of Islands",
       "slug": "number-of-islands",
       "solution": "https://leetcode.com/problems/number-of-islands/solutions/5919100/python-dfs-bfs-union-find/",
-      "pattern": [
-        "BFS",
-        "DFS",
-        "Union Find"
-      ],
+      "pattern": ["BFS", "DFS", "Union Find"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -2484,15 +2347,10 @@
       ]
     },
     {
-      "id": "208",
+      "id": 208,
       "title": "Graph Valid Tree",
       "slug": "graph-valid-tree",
-      "pattern": [
-        "BFS",
-        "DFS",
-        "Graph",
-        "Union Find"
-      ],
+      "pattern": ["BFS", "DFS", "Graph", "Union Find"],
       "difficulty": "Medium",
       "premium": true,
       "companies": [
@@ -2524,15 +2382,10 @@
       ]
     },
     {
-      "id": "209",
+      "id": 209,
       "title": "Number of Connected Components in an Undirected Graph",
       "slug": "number-of-connected-components-in-an-undirected-graph",
-      "pattern": [
-        "BFS",
-        "DFS",
-        "Graph",
-        "Union Find"
-      ],
+      "pattern": ["BFS", "DFS", "Graph", "Union Find"],
       "difficulty": "Medium",
       "premium": true,
       "companies": [
@@ -2559,12 +2412,10 @@
       ]
     },
     {
-      "id": "60",
+      "id": 60,
       "title": "Reverse Linked List II",
       "slug": "reverse-linked-list-ii",
-      "pattern": [
-        "In-place reversal of a linked list"
-      ],
+      "pattern": ["In-place reversal of a linked list"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -2621,12 +2472,10 @@
       ]
     },
     {
-      "id": "64",
+      "id": 64,
       "title": "Rotate List",
       "slug": "rotate-list",
-      "pattern": [
-        "In-place reversal of a linked list"
-      ],
+      "pattern": ["In-place reversal of a linked list"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -2668,12 +2517,10 @@
       ]
     },
     {
-      "id": "210",
+      "id": 210,
       "title": "Swap Nodes in Pairs",
       "slug": "swap-nodes-in-pairs",
-      "pattern": [
-        "In-place reversal of a linked list"
-      ],
+      "pattern": ["In-place reversal of a linked list"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -2720,12 +2567,10 @@
       ]
     },
     {
-      "id": "211",
+      "id": 211,
       "title": "Odd Even Linked List",
       "slug": "odd-even-linked-list",
-      "pattern": [
-        "In-place reversal of a linked list"
-      ],
+      "pattern": ["In-place reversal of a linked list"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -2772,12 +2617,10 @@
       ]
     },
     {
-      "id": "61",
+      "id": 61,
       "title": "Reverse Nodes in k-Group",
       "slug": "reverse-nodes-in-k-group",
-      "pattern": [
-        "In-place reversal of a linked list"
-      ],
+      "pattern": ["In-place reversal of a linked list"],
       "difficulty": "Hard",
       "premium": false,
       "companies": [
@@ -2849,13 +2692,11 @@
       ]
     },
     {
-      "id": "58",
+      "id": 58,
       "title": "Merge Two Sorted Lists",
       "slug": "merge-two-sorted-lists",
       "solution": "https://leetcode.com/problems/merge-two-sorted-lists/solutions/5862336/python-merge-two-linked-lists/",
-      "pattern": [
-        "Two Pointers"
-      ],
+      "pattern": ["Two Pointers"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -2957,14 +2798,11 @@
       ]
     },
     {
-      "id": "212",
+      "id": 212,
       "title": "Kth Smallest Element in a Sorted Matrix",
       "slug": "kth-smallest-element-in-a-sorted-matrix",
       "solution": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/solutions/5922748/python-binary-search-heap/",
-      "pattern": [
-        "Binary Search",
-        "Heap"
-      ],
+      "pattern": ["Binary Search", "Heap"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -2996,12 +2834,10 @@
       ]
     },
     {
-      "id": "122",
+      "id": 122,
       "title": "Find K Pairs with Smallest Sums",
       "slug": "find-k-pairs-with-smallest-sums",
-      "pattern": [
-        "Heap"
-      ],
+      "pattern": ["Heap"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -3023,12 +2859,10 @@
       ]
     },
     {
-      "id": "110",
+      "id": 110,
       "title": "Merge k Sorted Lists",
       "slug": "merge-k-sorted-lists",
-      "pattern": [
-        "Heap"
-      ],
+      "pattern": ["Heap"],
       "difficulty": "Hard",
       "premium": false,
       "companies": [
@@ -3115,12 +2949,10 @@
       ]
     },
     {
-      "id": "213",
+      "id": 213,
       "title": "Smallest Range Covering Elements from K Lists",
       "slug": "smallest-range-covering-elements-from-k-lists",
-      "pattern": [
-        "Heap"
-      ],
+      "pattern": ["Heap"],
       "difficulty": "Hard",
       "premium": false,
       "companies": [
@@ -3137,12 +2969,10 @@
       ]
     },
     {
-      "id": "214",
+      "id": 214,
       "title": "Meeting Rooms",
       "slug": "meeting-rooms",
-      "pattern": [
-        "Intervals"
-      ],
+      "pattern": ["Intervals"],
       "difficulty": "Easy",
       "premium": true,
       "companies": [
@@ -3169,13 +2999,11 @@
       ]
     },
     {
-      "id": "48",
+      "id": 48,
       "title": "Merge Intervals",
       "slug": "merge-intervals",
       "solution": "https://leetcode.com/problems/merge-intervals/solutions/5964650/python-merge-intervals-intervals-sorting/",
-      "pattern": [
-        "Intervals"
-      ],
+      "pattern": ["Intervals"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -3377,12 +3205,10 @@
       ]
     },
     {
-      "id": "215",
+      "id": 215,
       "title": "Interval List Intersections",
       "slug": "interval-list-intersections",
-      "pattern": [
-        "Intervals"
-      ],
+      "pattern": ["Intervals"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -3414,12 +3240,10 @@
       ]
     },
     {
-      "id": "216",
+      "id": 216,
       "title": "Non-overlapping Intervals",
       "slug": "non-overlapping-intervals",
-      "pattern": [
-        "Intervals"
-      ],
+      "pattern": ["Intervals"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -3461,13 +3285,10 @@
       ]
     },
     {
-      "id": "217",
+      "id": 217,
       "title": "Meeting Rooms II",
       "slug": "meeting-rooms-ii",
-      "pattern": [
-        "Heap",
-        "Intervals"
-      ],
+      "pattern": ["Heap", "Intervals"],
       "difficulty": "Medium",
       "premium": true,
       "companies": [
@@ -3564,13 +3385,10 @@
       ]
     },
     {
-      "id": "173",
+      "id": 173,
       "title": "Task Scheduler",
       "slug": "task-scheduler",
-      "pattern": [
-        "Greedy",
-        "Heap"
-      ],
+      "pattern": ["Greedy", "Heap"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -3647,13 +3465,11 @@
       ]
     },
     {
-      "id": "50",
+      "id": 50,
       "title": "Minimum Number of Arrows to Burst Balloons",
       "slug": "minimum-number-of-arrows-to-burst-balloons",
       "solution": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/solutions/5964681/python-balloon-popping-greedy/",
-      "pattern": [
-        "Greedy"
-      ],
+      "pattern": ["Greedy"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -3675,12 +3491,10 @@
       ]
     },
     {
-      "id": "49",
+      "id": 49,
       "title": "Insert Interval",
       "slug": "insert-interval",
-      "pattern": [
-        "Intervals"
-      ],
+      "pattern": ["Intervals"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -3742,13 +3556,10 @@
       ]
     },
     {
-      "id": "218",
+      "id": 218,
       "title": "Employee Free Time",
       "slug": "employee-free-time",
-      "pattern": [
-        "Heap",
-        "Greedy"
-      ],
+      "pattern": ["Heap", "Greedy"],
       "difficulty": "Hard",
       "premium": true,
       "companies": [
@@ -3765,13 +3576,11 @@
       ]
     },
     {
-      "id": "150",
+      "id": 150,
       "title": "Binary Search",
       "slug": "binary-search",
       "solution": "https://leetcode.com/problems/binary-search/solutions/5853985/python-binary-search/",
-      "pattern": [
-        "Binary Search"
-      ],
+      "pattern": ["Binary Search"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -3813,25 +3622,21 @@
       ]
     },
     {
-      "id": "219",
+      "id": 219,
       "title": "Find Smallest Letter Greater Than Target",
       "slug": "find-smallest-letter-greater-than-target",
       "solution": "https://leetcode.com/problems/find-smallest-letter-greater-than-target/solutions/5854001/python-binary-search/",
-      "pattern": [
-        "Binary Search"
-      ],
+      "pattern": ["Binary Search"],
       "difficulty": "Easy",
       "premium": false,
       "companies": []
     },
     {
-      "id": "220",
+      "id": 220,
       "title": "Peak Index in a Mountain Array",
       "slug": "peak-index-in-a-mountain-array",
       "solution": "https://leetcode.com/problems/peak-index-in-a-mountain-array/solutions/5922767/python-binary-search/",
-      "pattern": [
-        "Binary Search"
-      ],
+      "pattern": ["Binary Search"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -3873,13 +3678,11 @@
       ]
     },
     {
-      "id": "118",
+      "id": 118,
       "title": "Find Minimum in Rotated Sorted Array",
       "slug": "find-minimum-in-rotated-sorted-array",
       "solution": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/solutions/5928765/python-binary-search/",
-      "pattern": [
-        "Binary Search"
-      ],
+      "pattern": ["Binary Search"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -3926,13 +3729,11 @@
       ]
     },
     {
-      "id": "115",
+      "id": 115,
       "title": "Find Peak Element",
       "slug": "find-peak-element",
       "solution": "https://leetcode.com/problems/find-peak-element/solutions/5928769/python-binary-search/",
-      "pattern": [
-        "Binary Search"
-      ],
+      "pattern": ["Binary Search"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -4004,13 +3805,11 @@
       ]
     },
     {
-      "id": "116",
+      "id": 116,
       "title": "Search in Rotated Sorted Array",
       "slug": "search-in-rotated-sorted-array",
       "solution": "https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/5928783/python-binary-search/",
-      "pattern": [
-        "Binary Search"
-      ],
+      "pattern": ["Binary Search"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -4122,13 +3921,11 @@
       ]
     },
     {
-      "id": "221",
+      "id": 221,
       "title": "Search in Rotated Sorted Array II",
       "slug": "search-in-rotated-sorted-array-ii",
       "solution": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/solutions/5928808/python-binary-search/",
-      "pattern": [
-        "Binary Search"
-      ],
+      "pattern": ["Binary Search"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -4155,13 +3952,11 @@
       ]
     },
     {
-      "id": "114",
+      "id": 114,
       "title": "Search a 2D Matrix",
       "slug": "search-a-2d-matrix",
       "solution": "https://leetcode.com/problems/search-a-2d-matrix/solutions/5928825/python-binary-search/",
-      "pattern": [
-        "Binary Search"
-      ],
+      "pattern": ["Binary Search"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -4228,13 +4023,11 @@
       ]
     },
     {
-      "id": "222",
+      "id": 222,
       "title": "Search a 2D Matrix II",
       "slug": "search-a-2d-matrix-ii",
       "solution": "https://leetcode.com/problems/search-a-2d-matrix-ii/solutions/5928855/python-two-pointer/",
-      "pattern": [
-        "Two Pointers"
-      ],
+      "pattern": ["Two Pointers"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -4276,13 +4069,11 @@
       ]
     },
     {
-      "id": "223",
+      "id": 223,
       "title": "Find K Closest Elements",
       "slug": "find-k-closest-elements",
       "solution": "https://leetcode.com/problems/find-k-closest-elements/solutions/5933376/python-binary-search/",
-      "pattern": [
-        "Binary Search"
-      ],
+      "pattern": ["Binary Search"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -4339,23 +4130,19 @@
       ]
     },
     {
-      "id": "224",
+      "id": 224,
       "title": "Count of Range Sum",
       "slug": "count-of-range-sum",
-      "pattern": [
-        "Binary Search"
-      ],
+      "pattern": ["Binary Search"],
       "difficulty": "Hard",
       "premium": false,
       "companies": []
     },
     {
-      "id": "29",
+      "id": 29,
       "title": "Minimum Size Subarray Sum",
       "slug": "minimum-size-subarray-sum",
-      "pattern": [
-        "Sliding Window"
-      ],
+      "pattern": ["Sliding Window"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -4407,12 +4194,10 @@
       ]
     },
     {
-      "id": "225",
+      "id": 225,
       "title": "Fruit Into Baskets",
       "slug": "fruit-into-baskets",
-      "pattern": [
-        "Sliding Window"
-      ],
+      "pattern": ["Sliding Window"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -4449,12 +4234,10 @@
       ]
     },
     {
-      "id": "226",
+      "id": 226,
       "title": "Permutation in String",
       "slug": "permutation-in-string",
-      "pattern": [
-        "Sliding Window"
-      ],
+      "pattern": ["Sliding Window"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -4501,12 +4284,10 @@
       ]
     },
     {
-      "id": "227",
+      "id": 227,
       "title": "Longest Repeating Character Replacement",
       "slug": "longest-repeating-character-replacement",
-      "pattern": [
-        "Sliding Window"
-      ],
+      "pattern": ["Sliding Window"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -4583,13 +4364,11 @@
       ]
     },
     {
-      "id": "228",
+      "id": 228,
       "title": "Sliding Window Maximum",
       "slug": "sliding-window-maximum",
       "solution": "https://leetcode.com/problems/sliding-window-maximum/solutions/5979982/python-sliding-window-monotonically-increasing-queue/",
-      "pattern": [
-        "Sliding Window"
-      ],
+      "pattern": ["Sliding Window"],
       "difficulty": "Hard",
       "premium": false,
       "companies": [
@@ -4681,12 +4460,10 @@
       ]
     },
     {
-      "id": "30",
+      "id": 30,
       "title": "Longest Substring Without Repeating Characters",
       "slug": "longest-substring-without-repeating-characters",
-      "pattern": [
-        "Sliding Window"
-      ],
+      "pattern": ["Sliding Window"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -4878,12 +4655,10 @@
       ]
     },
     {
-      "id": "229",
+      "id": 229,
       "title": "Minimum Number of K Consecutive Bit Flips",
       "slug": "minimum-number-of-k-consecutive-bit-flips",
-      "pattern": [
-        "Sliding Window"
-      ],
+      "pattern": ["Sliding Window"],
       "difficulty": "Hard",
       "premium": false,
       "companies": [
@@ -4905,12 +4680,10 @@
       ]
     },
     {
-      "id": "230",
+      "id": 230,
       "title": "Count Unique Characters of All Substrings of a Given String",
       "slug": "count-unique-characters-of-all-substrings-of-a-given-string",
-      "pattern": [
-        "Sliding Window"
-      ],
+      "pattern": ["Sliding Window"],
       "difficulty": "Hard",
       "premium": false,
       "companies": [
@@ -4922,12 +4695,10 @@
       ]
     },
     {
-      "id": "32",
+      "id": 32,
       "title": "Minimum Window Substring",
       "slug": "minimum-window-substring",
-      "pattern": [
-        "Sliding Window"
-      ],
+      "pattern": ["Sliding Window"],
       "difficulty": "Hard",
       "premium": false,
       "companies": [
@@ -5019,12 +4790,10 @@
       ]
     },
     {
-      "id": "31",
+      "id": 31,
       "title": "Substring with Concatenation of All Words",
       "slug": "substring-with-concatenation-of-all-words",
-      "pattern": [
-        "Sliding Window"
-      ],
+      "pattern": ["Sliding Window"],
       "difficulty": "Hard",
       "premium": false,
       "companies": [
@@ -5051,13 +4820,11 @@
       ]
     },
     {
-      "id": "86",
+      "id": 86,
       "title": "Kth Smallest Element in a BST",
       "slug": "kth-smallest-element-in-a-bst",
       "solution": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/solutions/5938150/python-dfs/",
-      "pattern": [
-        "DFS"
-      ],
+      "pattern": ["DFS"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -5109,12 +4876,10 @@
       ]
     },
     {
-      "id": "162",
+      "id": 162,
       "title": "K Closest Points to Origin",
       "slug": "k-closest-points-to-origin",
-      "pattern": [
-        "Heap"
-      ],
+      "pattern": ["Heap"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -5146,12 +4911,10 @@
       ]
     },
     {
-      "id": "231",
+      "id": 231,
       "title": "Top K Frequent Elements",
       "slug": "top-k-frequent-elements",
-      "pattern": [
-        "Heap"
-      ],
+      "pattern": ["Heap"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -5263,12 +5026,10 @@
       ]
     },
     {
-      "id": "232",
+      "id": 232,
       "title": "Sort Characters By Frequency",
       "slug": "sort-characters-by-frequency",
-      "pattern": [
-        "Heap"
-      ],
+      "pattern": ["Heap"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -5330,13 +5091,10 @@
       ]
     },
     {
-      "id": "120",
+      "id": 120,
       "title": "Kth Largest Element in an Array",
       "slug": "kth-largest-element-in-an-array",
-      "pattern": [
-        "Heap",
-        "QuickSelect"
-      ],
+      "pattern": ["Heap", "QuickSelect"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -5418,13 +5176,10 @@
       ]
     },
     {
-      "id": "233",
+      "id": 233,
       "title": "Reorganize String",
       "slug": "reorganize-string",
-      "pattern": [
-        "Greedy",
-        "Heap"
-      ],
+      "pattern": ["Greedy", "Heap"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -5501,13 +5256,10 @@
       ]
     },
     {
-      "id": "234",
+      "id": 234,
       "title": "Rearrange String k Distance Apart",
       "slug": "rearrange-string-k-distance-apart",
-      "pattern": [
-        "Greedy",
-        "Heap"
-      ],
+      "pattern": ["Greedy", "Heap"],
       "difficulty": "Hard",
       "premium": true,
       "companies": [
@@ -5519,13 +5271,10 @@
       ]
     },
     {
-      "id": "235",
+      "id": 235,
       "title": "Course Schedule III",
       "slug": "course-schedule-iii",
-      "pattern": [
-        "Greedy",
-        "Heap"
-      ],
+      "pattern": ["Greedy", "Heap"],
       "difficulty": "Hard",
       "premium": false,
       "companies": [
@@ -5542,13 +5291,10 @@
       ]
     },
     {
-      "id": "236",
+      "id": 236,
       "title": "Maximum Frequency Stack",
       "slug": "maximum-frequency-stack",
-      "pattern": [
-        "Bucket Sort",
-        "Heap"
-      ],
+      "pattern": ["Bucket Sort", "Heap"],
       "difficulty": "Hard",
       "premium": false,
       "companies": [
@@ -5575,16 +5321,11 @@
       ]
     },
     {
-      "id": "92",
+      "id": 92,
       "title": "Course Schedule",
       "slug": "course-schedule",
       "solution": "https://leetcode.com/problems/course-schedule/solutions/5921891/python-topological-sort-bfs-topological-sort-dfs/",
-      "pattern": [
-        "BFS",
-        "DFS",
-        "Graph",
-        "Topological Sort"
-      ],
+      "pattern": ["BFS", "DFS", "Graph", "Topological Sort"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -5686,16 +5427,11 @@
       ]
     },
     {
-      "id": "93",
+      "id": 93,
       "title": "Course Schedule II",
       "slug": "course-schedule-ii",
       "solution": "https://leetcode.com/problems/course-schedule-ii/solutions/5922023/python-topological-sort-bfs-topological-sort-dfs/",
-      "pattern": [
-        "BFS",
-        "DFS",
-        "Graph",
-        "Topological Sort"
-      ],
+      "pattern": ["BFS", "DFS", "Graph", "Topological Sort"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -5777,15 +5513,11 @@
       ]
     },
     {
-      "id": "172",
+      "id": 172,
       "title": "Minimum Height Trees",
       "slug": "minimum-height-trees",
       "solution": "https://leetcode.com/problems/minimum-height-trees/solutions/5922194/python-topological-sort-bfs/",
-      "pattern": [
-        "BFS",
-        "Graph",
-        "Topological Sort"
-      ],
+      "pattern": ["BFS", "Graph", "Topological Sort"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -5812,13 +5544,10 @@
       ]
     },
     {
-      "id": "237",
+      "id": 237,
       "title": "Alien Dictionary",
       "slug": "alien-dictionary",
-      "pattern": [
-        "Graph",
-        "Topological Sort"
-      ],
+      "pattern": ["Graph", "Topological Sort"],
       "difficulty": "Hard",
       "premium": true,
       "companies": [
@@ -5865,37 +5594,30 @@
       ]
     },
     {
-      "id": "238",
+      "id": 238,
       "title": "Sequence Reconstruction",
       "slug": "sequence-reconstruction",
-      "pattern": [
-        "Graph",
-        "Topological Sort"
-      ],
+      "pattern": ["Graph", "Topological Sort"],
       "difficulty": "Medium",
       "premium": true,
       "companies": []
     },
     {
-      "id": "83",
+      "id": 83,
       "title": "Binary Tree Level Order Traversal",
       "slug": "binary-tree-level-order-traversal",
       "solution": "https://leetcode.com/problems/binary-tree-level-order-traversal/solutions/5922459/python-bfs/",
-      "pattern": [
-        "BFS"
-      ],
+      "pattern": ["BFS"],
       "difficulty": "Medium",
       "premium": false,
       "companies": []
     },
     {
-      "id": "82",
+      "id": 82,
       "title": "Average of Levels in Binary Tree",
       "slug": "average-of-levels-in-binary-tree",
       "solution": "https://leetcode.com/problems/average-of-levels-in-binary-tree/solutions/5853870/python-bfs-level-by-level-approach/",
-      "pattern": [
-        "BFS"
-      ],
+      "pattern": ["BFS"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -5907,14 +5629,11 @@
       ]
     },
     {
-      "id": "239",
+      "id": 239,
       "title": "Minimum Depth of Binary Tree",
       "slug": "minimum-depth-of-binary-tree",
       "solution": "https://leetcode.com/problems/minimum-depth-of-binary-tree/solutions/5853964/python-2-approaches-dfs-bfs/",
-      "pattern": [
-        "BFS",
-        "DFS"
-      ],
+      "pattern": ["BFS", "DFS"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -5931,25 +5650,21 @@
       ]
     },
     {
-      "id": "240",
+      "id": 240,
       "title": "Binary Tree Level Order Traversal II",
       "slug": "binary-tree-level-order-traversal-ii",
       "solution": "https://leetcode.com/problems/binary-tree-level-order-traversal-ii/solutions/5922466/python-bfs/",
-      "pattern": [
-        "BFS"
-      ],
+      "pattern": ["BFS"],
       "difficulty": "Medium",
       "premium": false,
       "companies": []
     },
     {
-      "id": "84",
+      "id": 84,
       "title": "Binary Tree Zigzag Level Order Traversal",
       "slug": "binary-tree-zigzag-level-order-traversal",
       "solution": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/solutions/5922540/python-bfs/",
-      "pattern": [
-        "BFS"
-      ],
+      "pattern": ["BFS"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -6021,14 +5736,11 @@
       ]
     },
     {
-      "id": "81",
+      "id": 81,
       "title": "Binary Tree Right Side View",
       "slug": "binary-tree-right-side-view",
       "solution": "https://leetcode.com/problems/binary-tree-right-side-view/solutions/5922557/python-bfs-dfs/",
-      "pattern": [
-        "BFS",
-        "DFS"
-      ],
+      "pattern": ["BFS", "DFS"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -6085,14 +5797,11 @@
       ]
     },
     {
-      "id": "241",
+      "id": 241,
       "title": "All Nodes Distance K in Binary Tree",
       "slug": "all-nodes-distance-k-in-binary-tree",
       "solution": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/solutions/5922617/python-bfs-dfs/",
-      "pattern": [
-        "BFS",
-        "DFS"
-      ],
+      "pattern": ["BFS", "DFS"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -6129,13 +5838,11 @@
       ]
     },
     {
-      "id": "68",
+      "id": 68,
       "title": "Same Tree",
       "slug": "same-tree",
       "solution": "https://leetcode.com/problems/same-tree/solutions/5711441/python-dfs/",
-      "pattern": [
-        "DFS"
-      ],
+      "pattern": ["DFS"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -6177,13 +5884,11 @@
       ]
     },
     {
-      "id": "75",
+      "id": 75,
       "title": "Path Sum",
       "slug": "path-sum",
       "solution": "https://leetcode.com/problems/path-sum/solutions/5711619/python-dfs/",
-      "pattern": [
-        "DFS"
-      ],
+      "pattern": ["DFS"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -6220,13 +5925,11 @@
       ]
     },
     {
-      "id": "67",
+      "id": 67,
       "title": "Maximum Depth of Binary Tree",
       "slug": "maximum-depth-of-binary-tree",
       "solution": "https://leetcode.com/problems/maximum-depth-of-binary-tree/solutions/5711629/python-dfs/",
-      "pattern": [
-        "DFS"
-      ],
+      "pattern": ["DFS"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -6263,13 +5966,11 @@
       ]
     },
     {
-      "id": "158",
+      "id": 158,
       "title": "Diameter of Binary Tree",
       "slug": "diameter-of-binary-tree",
       "solution": "https://leetcode.com/problems/diameter-of-binary-tree/solutions/5854371/python-dfs/",
-      "pattern": [
-        "DFS"
-      ],
+      "pattern": ["DFS"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -6316,13 +6017,11 @@
       ]
     },
     {
-      "id": "242",
+      "id": 242,
       "title": "Merge Two Binary Trees",
       "slug": "merge-two-binary-trees",
       "solution": "https://leetcode.com/problems/merge-two-binary-trees/solutions/5712370/python-dfs-explanation/",
-      "pattern": [
-        "DFS"
-      ],
+      "pattern": ["DFS"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -6339,13 +6038,11 @@
       ]
     },
     {
-      "id": "152",
+      "id": 152,
       "title": "Lowest Common Ancestor of a Binary Search Tree",
       "slug": "lowest-common-ancestor-of-a-binary-search-tree",
       "solution": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solutions/5938252/python-dfs/",
-      "pattern": [
-        "DFS"
-      ],
+      "pattern": ["DFS"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -6382,13 +6079,11 @@
       ]
     },
     {
-      "id": "243",
+      "id": 243,
       "title": "Subtree of Another Tree",
       "slug": "subtree-of-another-tree",
       "solution": "https://leetcode.com/problems/subtree-of-another-tree/solutions/5856605/python-2-approaches-dfs-merkle-hashing/",
-      "pattern": [
-        "DFS"
-      ],
+      "pattern": ["DFS"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -6410,13 +6105,11 @@
       ]
     },
     {
-      "id": "69",
+      "id": 69,
       "title": "Invert Binary Tree",
       "slug": "invert-binary-tree",
       "solution": "https://leetcode.com/problems/invert-binary-tree/solutions/5856996/python-2-approaches-dfs-3-line-dfs/",
-      "pattern": [
-        "DFS"
-      ],
+      "pattern": ["DFS"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -6433,13 +6126,11 @@
       ]
     },
     {
-      "id": "244",
+      "id": 244,
       "title": "Path Sum II",
       "slug": "path-sum-ii",
       "solution": "https://leetcode.com/problems/path-sum-ii/solutions/5938345/python-dfs-backtracking/",
-      "pattern": [
-        "DFS"
-      ],
+      "pattern": ["DFS"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -6476,13 +6167,11 @@
       ]
     },
     {
-      "id": "245",
+      "id": 245,
       "title": "Path Sum III",
       "slug": "path-sum-iii",
       "solution": "https://leetcode.com/problems/path-sum-iii/solutions/5938580/python-dfs-backtracking/",
-      "pattern": [
-        "DFS"
-      ],
+      "pattern": ["DFS"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -6519,13 +6208,11 @@
       ]
     },
     {
-      "id": "80",
+      "id": 80,
       "title": "Lowest Common Ancestor of a Binary Tree",
       "slug": "lowest-common-ancestor-of-a-binary-tree",
       "solution": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solutions/5948071/python-dfs/",
-      "pattern": [
-        "DFS"
-      ],
+      "pattern": ["DFS"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -6592,25 +6279,21 @@
       ]
     },
     {
-      "id": "246",
+      "id": 246,
       "title": "Maximum Binary Tree",
       "slug": "maximum-binary-tree",
       "solution": "https://leetcode.com/problems/maximum-binary-tree/solutions/5948125/python-dfs/",
-      "pattern": [
-        "DFS"
-      ],
+      "pattern": ["DFS"],
       "difficulty": "Medium",
       "premium": false,
       "companies": []
     },
     {
-      "id": "247",
+      "id": 247,
       "title": "Maximum Width of Binary Tree",
       "slug": "maximum-width-of-binary-tree",
       "solution": "https://leetcode.com/problems/maximum-width-of-binary-tree/solutions/5953626/python-dfs/",
-      "pattern": [
-        "DFS"
-      ],
+      "pattern": ["DFS"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -6637,13 +6320,11 @@
       ]
     },
     {
-      "id": "71",
+      "id": 71,
       "title": "Construct Binary Tree from Preorder and Inorder Traversal",
       "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
       "solution": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/solutions/5953727/python-dfs/",
-      "pattern": [
-        "DFS"
-      ],
+      "pattern": ["DFS"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -6695,13 +6376,11 @@
       ]
     },
     {
-      "id": "87",
+      "id": 87,
       "title": "Validate Binary Search Tree",
       "slug": "validate-binary-search-tree",
       "solution": "https://leetcode.com/problems/validate-binary-search-tree/solutions/5953909/python-dfs/",
-      "pattern": [
-        "DFS"
-      ],
+      "pattern": ["DFS"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -6778,14 +6457,11 @@
       ]
     },
     {
-      "id": "97",
+      "id": 97,
       "title": "Implement Trie (Prefix Tree)",
       "slug": "implement-trie-prefix-tree",
       "solution": "https://leetcode.com/problems/implement-trie-prefix-tree/solutions/5933800/python-trie-design/",
-      "pattern": [
-        "Design",
-        "Trie"
-      ],
+      "pattern": ["Design", "Trie"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -6857,13 +6533,11 @@
       ]
     },
     {
-      "id": "77",
+      "id": 77,
       "title": "Binary Tree Maximum Path Sum",
       "solution": "https://leetcode.com/problems/binary-tree-maximum-path-sum/solutions/5979605/python/",
       "slug": "binary-tree-maximum-path-sum",
-      "pattern": [
-        "DFS"
-      ],
+      "pattern": ["DFS"],
       "difficulty": "Hard",
       "premium": false,
       "companies": [
@@ -6960,12 +6634,10 @@
       ]
     },
     {
-      "id": "174",
+      "id": 174,
       "title": "Serialize and Deserialize Binary Tree",
       "slug": "serialize-and-deserialize-binary-tree",
-      "pattern": [
-        "Design"
-      ],
+      "pattern": ["Design"],
       "difficulty": "Hard",
       "premium": false,
       "companies": [
@@ -7022,13 +6694,10 @@
       ]
     },
     {
-      "id": "99",
+      "id": 99,
       "title": "Word Search II",
       "slug": "word-search-ii",
-      "pattern": [
-        "DFS",
-        "Trie"
-      ],
+      "pattern": ["DFS", "Trie"],
       "difficulty": "Hard",
       "premium": false,
       "companies": [
@@ -7105,12 +6774,10 @@
       ]
     },
     {
-      "id": "123",
+      "id": 123,
       "title": "Find Median from Data Stream",
       "slug": "find-median-from-data-stream",
-      "pattern": [
-        "Heap"
-      ],
+      "pattern": ["Heap"],
       "difficulty": "Hard",
       "premium": false,
       "companies": [
@@ -7197,12 +6864,10 @@
       ]
     },
     {
-      "id": "248",
+      "id": 248,
       "title": "Sliding Window Median",
       "slug": "sliding-window-median",
-      "pattern": [
-        "Heap"
-      ],
+      "pattern": ["Heap"],
       "difficulty": "Hard",
       "premium": false,
       "companies": [
@@ -7229,13 +6894,11 @@
       ]
     },
     {
-      "id": "43",
+      "id": 43,
       "title": "Two Sum",
       "slug": "two-sum",
       "solution": "https://leetcode.com/problems/two-sum/solutions/5862553/python-brute-force-hashmap/",
-      "pattern": [
-        "Two Pointers"
-      ],
+      "pattern": ["Two Pointers"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -7452,13 +7115,11 @@
       ]
     },
     {
-      "id": "249",
+      "id": 249,
       "title": "Squares of a Sorted Array",
       "slug": "squares-of-a-sorted-array",
       "solution": "https://leetcode.com/problems/squares-of-a-sorted-array/solutions/5862585/python-square-sort-square-in-order/",
-      "pattern": [
-        "Two Pointers"
-      ],
+      "pattern": ["Two Pointers"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -7505,13 +7166,11 @@
       ]
     },
     {
-      "id": "250",
+      "id": 250,
       "title": "Backspace String Compare",
       "slug": "backspace-string-compare",
       "solution": "https://leetcode.com/problems/backspace-string-compare/solutions/5862648/python-stack/",
-      "pattern": [
-        "Two Pointers"
-      ],
+      "pattern": ["Two Pointers"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -7568,12 +7227,10 @@
       ]
     },
     {
-      "id": "28",
+      "id": 28,
       "title": "3Sum",
       "slug": "3sum",
-      "pattern": [
-        "Two Pointers"
-      ],
+      "pattern": ["Two Pointers"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -7685,12 +7342,10 @@
       ]
     },
     {
-      "id": "251",
+      "id": 251,
       "title": "3Sum Closest",
       "slug": "3sum-closest",
-      "pattern": [
-        "Two Pointers"
-      ],
+      "pattern": ["Two Pointers"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -7732,12 +7387,10 @@
       ]
     },
     {
-      "id": "252",
+      "id": 252,
       "title": "Subarray Product Less Than K",
       "slug": "subarray-product-less-than-k",
-      "pattern": [
-        "Two Pointers"
-      ],
+      "pattern": ["Two Pointers"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -7799,12 +7452,10 @@
       ]
     },
     {
-      "id": "166",
+      "id": 166,
       "title": "Sort Colors",
       "slug": "sort-colors",
-      "pattern": [
-        "Two Pointers"
-      ],
+      "pattern": ["Two Pointers"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -7886,13 +7537,11 @@
       ]
     },
     {
-      "id": "15",
+      "id": 15,
       "title": "Trapping Rain Water",
       "slug": "trapping-rain-water",
       "solution": "https://leetcode.com/problems/trapping-rain-water/solutions/5979699/python-two-pointer-maximum-value-reference-point/",
-      "pattern": [
-        "Two Pointers"
-      ],
+      "pattern": ["Two Pointers"],
       "difficulty": "Hard",
       "premium": false,
       "companies": [
@@ -8059,12 +7708,10 @@
       ]
     },
     {
-      "id": "27",
+      "id": 27,
       "title": "Container With Most Water",
       "slug": "container-with-most-water",
-      "pattern": [
-        "Two Pointers"
-      ],
+      "pattern": ["Two Pointers"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -8136,34 +7783,28 @@
       ]
     },
     {
-      "id": "253",
+      "id": 253,
       "title": "Longest Word in Dictionary",
       "slug": "longest-word-in-dictionary",
-      "pattern": [
-        "Trie"
-      ],
+      "pattern": ["Trie"],
       "difficulty": "Medium",
       "premium": false,
       "companies": []
     },
     {
-      "id": "254",
+      "id": 254,
       "title": "Index Pairs of a String",
       "slug": "index-pairs-of-a-string",
-      "pattern": [
-        "Trie"
-      ],
+      "pattern": ["Trie"],
       "difficulty": "Easy",
       "premium": true,
       "companies": []
     },
     {
-      "id": "255",
+      "id": 255,
       "title": "Maximum XOR of Two Numbers in an Array",
       "slug": "maximum-xor-of-two-numbers-in-an-array",
-      "pattern": [
-        "Trie"
-      ],
+      "pattern": ["Trie"],
       "difficulty": "Medium",
       "premium": false,
       "companies": [
@@ -8185,12 +7826,10 @@
       ]
     },
     {
-      "id": "256",
+      "id": 256,
       "title": "Concatenated Words",
       "slug": "concatenated-words",
-      "pattern": [
-        "Trie"
-      ],
+      "pattern": ["Trie"],
       "difficulty": "Hard",
       "premium": false,
       "companies": [
@@ -8222,12 +7861,10 @@
       ]
     },
     {
-      "id": "257",
+      "id": 257,
       "title": "Prefix and Suffix Search",
       "slug": "prefix-and-suffix-search",
-      "pattern": [
-        "Trie"
-      ],
+      "pattern": ["Trie"],
       "difficulty": "Hard",
       "premium": false,
       "companies": [
@@ -8239,12 +7876,10 @@
       ]
     },
     {
-      "id": "258",
+      "id": 258,
       "title": "Palindrome Pairs",
       "slug": "palindrome-pairs",
-      "pattern": [
-        "Trie"
-      ],
+      "pattern": ["Trie"],
       "difficulty": "Hard",
       "premium": false,
       "companies": [
@@ -8266,12 +7901,10 @@
       ]
     },
     {
-      "id": "259",
+      "id": 259,
       "title": "Design Search Autocomplete System",
       "slug": "design-search-autocomplete-system",
-      "pattern": [
-        "Trie"
-      ],
+      "pattern": ["Trie"],
       "difficulty": "Hard",
       "premium": true,
       "companies": [
@@ -8313,36 +7946,28 @@
       ]
     },
     {
-      "id": "260",
+      "id": 260,
       "title": "Word Squares",
       "slug": "word-squares",
-      "pattern": [
-        "Trie"
-      ],
+      "pattern": ["Trie"],
       "difficulty": "Hard",
       "premium": true,
       "companies": []
     },
     {
-      "id": "261",
+      "id": 261,
       "title": "Sort Items by Groups Respecting Dependencies",
       "slug": "sort-items-by-groups-respecting-dependencies",
-      "pattern": [
-        "DFS",
-        "Graph",
-        "Topological Sort"
-      ],
+      "pattern": ["DFS", "Graph", "Topological Sort"],
       "difficulty": "Hard",
       "premium": false,
       "companies": []
     },
     {
-      "id": "119",
+      "id": 119,
       "title": "Median of Two Sorted Arrays",
       "slug": "median-of-two-sorted-arrays",
-      "pattern": [
-        "Binary Search"
-      ],
+      "pattern": ["Binary Search"],
       "difficulty": "Hard",
       "premium": false,
       "companies": [
@@ -8444,13 +8069,11 @@
       ]
     },
     {
-      "id": "4",
+      "id": 4,
       "title": "Majority Element",
       "slug": "majority-element",
       "solution": "https://leetcode.com/problems/majority-element/solutions/5862290/python-sorting-hashmap-moore-s-voting-algorithm/",
-      "pattern": [
-        "Sorting"
-      ],
+      "pattern": ["Sorting"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -8532,13 +8155,11 @@
       ]
     },
     {
-      "id": "262",
+      "id": 262,
       "title": "Convert 1D Array Into 2D Array",
       "slug": "convert-1d-array-into-2d-array",
       "solution": "https://leetcode.com/problems/convert-1d-array-into-2d-array/solutions/5852810/2-python-approaches-normal-2-line/",
-      "pattern": [
-        "Arrays"
-      ],
+      "pattern": ["Arrays"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -8560,14 +8181,11 @@
       ]
     },
     {
-      "id": "263",
+      "id": 263,
       "title": "Move Zeroes",
       "slug": "move-zeroes",
       "solution": "https://leetcode.com/problems/move-zeroes/solutions/5853841/python-one-pass/",
-      "pattern": [
-        "Arrays",
-        "Two Pointers"
-      ],
+      "pattern": ["Arrays", "Two Pointers"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -8679,13 +8297,11 @@
       ]
     },
     {
-      "id": "25",
+      "id": 25,
       "title": "Is Subsequence",
       "slug": "is-subsequence",
       "solution": "https://leetcode.com/problems/is-subsequence/solutions/5862655/python-is-subsequence/",
-      "pattern": [
-        "Two Pointers"
-      ],
+      "pattern": ["Two Pointers"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -8737,14 +8353,11 @@
       ]
     },
     {
-      "id": "264",
+      "id": 264,
       "title": "Binary Tree Paths",
       "slug": "binary-tree-paths",
       "solution": "https://leetcode.com/problems/binary-tree-paths/solutions/5857203/python-2-approaches-dfs-dfs-backtracking/",
-      "pattern": [
-        "DFS",
-        "Backtracking"
-      ],
+      "pattern": ["DFS", "Backtracking"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
@@ -8761,36 +8374,29 @@
       ]
     },
     {
-      "id": "265",
+      "id": 265,
       "title": "Factor Combinations",
       "slug": "factor-combinations",
-      "pattern": [
-        "Arrays",
-        "Backtracking"
-      ],
+      "pattern": ["Arrays", "Backtracking"],
       "difficulty": "Medium",
       "premium": true,
       "companies": []
     },
     {
-      "id": "266",
+      "id": 266,
       "title": "Split a String Into the Max Number of Unique Substrings",
       "slug": "split-a-string-into-the-max-number-of-unique-substrings",
-      "pattern": [
-        "Backtracking"
-      ],
+      "pattern": ["Backtracking"],
       "difficulty": "Medium",
       "premium": false,
       "companies": []
     },
     {
-      "id": "267",
+      "id": 267,
       "title": "Maximum Average Subarray I",
       "slug": "maximum-average-subarray-i",
       "solution": "https://leetcode.com/problems/maximum-average-subarray-i/solutions/5862160/python-brute-force-sliding-window/",
-      "pattern": [
-        "Sliding Window"
-      ],
+      "pattern": ["Sliding Window"],
       "difficulty": "Easy",
       "premium": false,
       "companies": [
