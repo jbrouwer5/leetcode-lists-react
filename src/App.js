@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Routes, NavLink } from "react-router-dom";
+import { HashRouter as Router, Route, Routes, NavLink } from "react-router-dom";
 import Home from "./Pages/Home";
 import About from "./Pages/About";
 import QuestionList from "./Pages/QuestionList";
@@ -11,7 +11,7 @@ import "./App.css";
 
 function App() {
   return (
-    <Router basename="/leetcode">
+    <Router>
       <h1>LeetCode Lists</h1>
 
       <nav>
