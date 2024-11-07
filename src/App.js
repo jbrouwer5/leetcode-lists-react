@@ -52,11 +52,11 @@ function App() {
           </li>
           <li>
             <NavLink
-              to="/leetcodetopinterview"
+              to="/leetcodetop150"
               className={({ isActive }) => (isActive ? "active" : undefined)}
               state={{ data: Top150.data }}
             >
-              LeetCode Top Interview
+              LeetCode Top 150
             </NavLink>
           </li>
         </ul>
@@ -67,7 +67,7 @@ function App() {
         <Route path="/about" element={<About />} />
         <Route path="/grind75" element={<QuestionList />} />
         <Route path="/seanprashad" element={<QuestionList />} />
-        <Route path="/leetcodetopinterview" element={<QuestionList />} />
+        <Route path="/leetcodetop150" element={<QuestionList />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
     </Router>
