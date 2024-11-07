@@ -8,7 +8,7 @@ const ProgressBar = ({ label, solved, total, color }) => {
   return (
     <>
       <div className={styles.ProgressBarMargin}>
-        <strong>{label}:</strong> {solved} / {total} questions solved
+        <strong>{label}:</strong> {solved} / {total} Questions Solved
       </div>
       <div className={styles.ProgressBarBorder}>
         <div

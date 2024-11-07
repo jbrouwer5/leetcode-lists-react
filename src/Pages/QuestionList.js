@@ -2,6 +2,8 @@ import { useLocation } from "react-router-dom";
 import React, { useState, useEffect, useCallback, useMemo } from "react";
 import ProgressBar from "./ProgressBar";
 import styles from "./QuestionList.module.css";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faCircle, faCheckCircle } from "@fortawesome/free-solid-svg-icons";
 
 const QuestionList = () => {
   const [checks, setChecks] = useState(
@@ -98,7 +100,6 @@ const QuestionList = () => {
 
   return (
     <div>
-      {/* Progress Bar and Counts */}
       <div className={styles.progressBarContainer}>
         <ProgressBar
           label="All"
@@ -126,113 +127,115 @@ const QuestionList = () => {
         />
       </div>
 
-      {/* Filter Controls */}
-      <div className={styles.filterControls}>
-        <label>
-          Show:
-          <select
-            name="checked"
-            value={filter.checked}
-            onChange={handleFilterChange}
-          >
-            <option value="all">All</option>
-            <option value="checked">Checked</option>
-            <option value="unchecked">Unchecked</option>
-          </select>
-        </label>
-        <label>
-          Difficulty:
-          <select
-            name="difficulty"
-            value={filter.difficulty}
-            onChange={handleFilterChange}
-          >
-            <option value="all">All</option>
-            <option value="Easy">Easy</option>
-            <option value="Medium">Medium</option>
-            <option value="Hard">Hard</option>
-          </select>
-        </label>
-        <label>
-          Pattern:
-          <select
-            name="pattern"
-            value={filter.pattern}
-            onChange={handleFilterChange}
-          >
-            <option value="all">All</option>
-            {[...new Set(questions.flatMap((q) => q.pattern || []))].map(
-              (pattern) => (
-                <option key={pattern} value={pattern}>
-                  {pattern}
-                </option>
-              )
-            )}
-          </select>
-        </label>
-      </div>
-
-      {/* Table */}
-      {filteredData.length === 0 ? (
-        <p>No questions match your filters.</p>
-      ) : (
-        <div className={styles.tableContainer}>
-          <table>
-            <thead>
-              <tr>
-                <th>Check</th>
-                <th>Title</th>
-                <th>Solutions</th>
-                <th>Difficulty</th>
-                <th>Patterns</th>
+      <div className={styles.tableContainer}>
+        <table>
+          <thead>
+            <tr>
+              <th>
+                Completed
+                <select
+                  className={styles.filter}
+                  name="checked"
+                  value={filter.checked}
+                  onChange={handleFilterChange}
+                >
+                  <option value="all">All</option>
+                  <option value="checked">Checked</option>
+                  <option value="unchecked">Unchecked</option>
+                </select>
+              </th>
+              <th>Title</th>
+              <th>Solutions</th>
+              <th>
+                Difficulty
+                <select
+                  className={styles.filter}
+                  name="difficulty"
+                  value={filter.difficulty}
+                  onChange={handleFilterChange}
+                >
+                  <option value="all">All</option>
+                  <option value="Easy">Easy</option>
+                  <option value="Medium">Medium</option>
+                  <option value="Hard">Hard</option>
+                </select>
+              </th>
+              <th>
+                Patterns
+                <select
+                  className={styles.filter}
+                  name="pattern"
+                  value={filter.pattern}
+                  onChange={handleFilterChange}
+                >
+                  <option value="all">All</option>
+                  {[...new Set(questions.flatMap((q) => q.pattern || []))].map(
+                    (pattern) => (
+                      <option key={pattern} value={pattern}>
+                        {pattern}
+                      </option>
+                    )
+                  )}
+                </select>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            {filteredData.map((question) => (
+              <tr key={question.id}>
+                <td onClick={() => toggleCheck(question.id)}>
+                  <FontAwesomeIcon
+                    icon={checks[question.id] ? faCheckCircle : faCircle}
+                    className={
+                      checks[question.id]
+                        ? styles.checkIconClicked
+                        : styles.checkIcon
+                    }
+                  />
+                </td>
+                <td>
+                  {question.slug ? (
+                    <a
+                      href={`https://leetcode.com/problems/${question.slug}/`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      {question.title}
+                    </a>
+                  ) : (
+                    question.title
+                  )}
+                </td>
+                <td>
+                  {question.solution ? (
+                    <a
+                      href={question.solution}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Solution
+                    </a>
+                  ) : (
+                    "Coming Soon"
+                  )}
+                </td>
+                <td
+                  className={
+                    question.difficulty === "Easy"
+                      ? styles.difficultyEasy
+                      : question.difficulty === "Medium"
+                      ? styles.difficultyMedium
+                      : styles.difficultyHard
+                  }
+                >
+                  {question.difficulty}
+                </td>
+                <td>{question.pattern ? question.pattern.join(", ") : ""}</td>
               </tr>
-            </thead>
-            <tbody>
-              {filteredData.map((question) => (
-                <tr key={question.id}>
-                  <td>
-                    <input
-                      type="checkbox"
-                      checked={checks[question.id] || false}
-                      onChange={() => {
-                        toggleCheck(question.id);
-                      }}
-                    />
-                  </td>
-                  <td>
-                    {question.slug ? (
-                      <a
-                        href={`https://leetcode.com/problems/${question.slug}/`}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        {question.title}
-                      </a>
-                    ) : (
-                      question.title
-                    )}
-                  </td>
-                  <td>
-                    {question.solution ? (
-                      <a
-                        href={question.solution}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        Solution
-                      </a>
-                    ) : (
-                      "Coming Soon"
-                    )}
-                  </td>
-                  <td>{question.difficulty}</td>
-                  <td>{question.pattern ? question.pattern.join(", ") : ""}</td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-      )}
+            ))}
+          </tbody>
+        </table>
+      </div>
     </div>
   );
 };

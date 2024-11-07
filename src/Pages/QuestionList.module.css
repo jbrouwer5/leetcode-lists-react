@@ -5,6 +5,9 @@
     align-items: center;
 }
 
+.filter {
+    margin-left: 5px;
+}
 .filterControls {
     display: flex;
     gap: 15px;
@@ -25,22 +28,23 @@
 }
 
 .tableContainer {
+    width: 80%;
+        margin: 0 auto;
+        /* padding: 0 20px; */
     overflow-x: auto;
-    margin-top: 20px;
+    border: 1px solid #dfdfdf;
 }
 
 table {
     width: 100%;
     border-collapse: collapse;
-    margin: 0 auto;
-    font-size: 1rem;
 }
 
 th,
 td {
     padding: 10px;
-    text-align: left;
     border-bottom: 1px solid #ddd;
+    text-align: left;
 }
 
 th {
@@ -48,15 +52,57 @@ th {
     font-weight: bold;
 }
 
+
 tr:nth-child(even) {
     background-color: #f9f9f9;
 }
 
 a {
-    color: #3498db;
+    color: #be6800;
     text-decoration: none;
+    font-weight: bold;
 }
 
 a:hover {
     text-decoration: underline;
+}
+.difficultyEasy {
+    color: #00a65a;
+    /* green for Easy */
+    font-weight: bold;
+}
+
+.difficultyMedium {
+    color: #f0ad4e;
+    /* orange for Medium */
+    font-weight: bold;
+}
+
+.difficultyHard {
+    color: #d9534f;
+    /* red for Hard */
+    font-weight: bold;
+}
+
+.checkIcon {
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: #9a9a9a;
+}
+
+.checkIcon:hover {
+    color: #808080;
+    /* Darker shade on hover */
+}
+
+.checkIconClicked {
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: #00a65a;
+}
+
+.checkIconClicked:hover {
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: #009451;
 }

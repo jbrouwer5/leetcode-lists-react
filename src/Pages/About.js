@@ -7,13 +7,16 @@ function About() {
       <h3 className={styles.heading}>About</h3>
       <p className={styles.paragraph}>
         I made this page to help those entering or returning to the interview
-        process. When I started interview prep, I found there to be a lack of
-        consistently formatted and explained LeetCode solutions.
+        process. When I started interview prep, I noticed two things. First, the
+        favorite curated LeetCode lists were spread across different sites and
+        hard to find without someone showing you where to look. Second, I found
+        there to be a lack of consistent format and approach in LeetCode
+        solutions.
       </p>
       <p className={styles.paragraph}>
-        I wanted to make it easier for others to find and understand common
-        interview problems. I aimed to have my solutions consistently formatted
-        in terms of explanation and code.
+        Therefore, I decided to put all the best lists in one place, with easily
+        accessible solutions where I tried to use consistent formatting, vocab,
+        and approach for understanding.
       </p>
       <p className={styles.paragraph}>Good luck with your interview!</p>
       <p className={styles.paragraph}>

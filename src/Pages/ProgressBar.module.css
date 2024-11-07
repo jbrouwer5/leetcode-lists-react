@@ -1,12 +1,16 @@
 .ProgressBarMargin {
     margin-bottom: 10px;
+    text-align: center;
+        font-size: 0.9rem;
 }
 
 .ProgressBarBorder {
     background: #ddd;
-    height: 20px;
+    height: 15px;
     border-radius: 5px;
     overflow: hidden;
+    width: 25%;
+        margin: 0 auto;
 }
 
 .ProgressBar {
