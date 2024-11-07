@@ -31,4 +31,9 @@ jobs:
           publish_dir: ./build
           publish_branch: gh-pages  # Specify `gh-pages` instead of `main`
           destination_dir: leetcode  # Subdirectory for your deployment
+          user_name: 'github-actions[bot]'  # Explicitly set user name and email
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          force_orphan: true  # Force an orphan branch to prevent history issues
+
+
 
