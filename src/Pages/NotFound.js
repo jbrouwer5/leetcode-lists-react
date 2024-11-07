@@ -1,3 +1,13 @@
 export default function NotFound() {
-    return <h1>Page Not Found</h1>;
+    return (
+      <html>
+        <head>
+          <meta http-equiv="refresh" content="0; url=/#/leetcode" />
+        </head>
+
+        <body>
+          <p>Redirecting...</p>
+        </body>
+      </html>
+    );
 }
