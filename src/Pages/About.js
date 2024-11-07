@@ -18,6 +18,12 @@ function About() {
         accessible solutions where I tried to use consistent formatting, vocab,
         and approach for understanding.
       </p>
+      <p className={styles.paragraph}>
+        Note: All of my solutions are in Python. I choose Python for technical
+        interviews because the lack of verbosity makes writing solutions faster
+        than in languages like C++ or Java. I try my best to adhere to Python
+        best practices.
+      </p>
       <p className={styles.paragraph}>Good luck with your interview!</p>
       <p className={styles.paragraph}>
         Write brouwercodes@gmail.com with any questions, requests for new
