@@ -27,13 +27,23 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3 
         with:
+        #   github_token: ${{ secrets.GITHUB_TOKEN }}
+        #   publish_dir: ./build
+        #   publish_branch: gh-pages  # Specify `gh-pages` instead of `main`
+        #   destination_dir: leetcode  # Subdirectory for your deployment
+        #   user_name: 'github-actions[bot]'  # Explicitly set user name and email
+        #   user_email: 'github-actions[bot]@users.noreply.github.com'
+        #   force_orphan: true  # Force an orphan branch to prevent history issues
+
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
-          publish_branch: gh-pages  # Specify `gh-pages` instead of `main`
-          destination_dir: leetcode  # Subdirectory for your deployment
-          user_name: 'github-actions[bot]'  # Explicitly set user name and email
+          publish_branch: gh-pages
+          destination_dir: leetcode  # Subdirectory on the GitHub Pages repo
+          external_repository: jbrouwer5/jbrouwer5.github.io  # Replace with your GitHub Pages repo
+          user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
-          force_orphan: true  # Force an orphan branch to prevent history issues
+          force_orphan: true  # Start fresh on each deploy
+
 
 
 
