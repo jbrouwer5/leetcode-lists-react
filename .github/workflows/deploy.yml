@@ -29,4 +29,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
-          publish_branch: main  # Branch of your GitHub Pages repo where you want to deploy
+          publish_branch: gh-pages  # Specify `gh-pages` instead of `main`
+          destination_dir: leetcode  # Subdirectory for your deployment
+
