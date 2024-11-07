@@ -4,6 +4,7 @@ import React from "react";
 function About() {
   return (
     <>
+      <h3>About</h3>
       <p>
         I made this page to help those entering or returning to the interview
         process. When I started interview prep, I found there to be a lack of
@@ -19,6 +20,29 @@ function About() {
         Write brouwercodes@gmail.com with any questions, requests for new
         solutions or problem lists, or bug reports!
       </p>
+
+      <h3>References</h3>
+      <a
+        href="https://www.techinterviewhandbook.org/grind75/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Grind75
+      </a>
+      <a
+        href="https://seanprashad.com/leetcode-patterns/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Sean Prashad's LeetCode Patterns
+      </a>
+      <a
+        href="https://leetcode.com/studyplan/top-interview-150/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Top Interview 150
+      </a>
     </>
   );   
 }
