@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useLocation } from "react";
 import { HashRouter as Router, Route, Routes, NavLink } from "react-router-dom";
 import Home from "./Pages/Home";
 import About from "./Pages/About";
@@ -8,8 +8,20 @@ import Grind75 from "./data/grind75.json";
 import SeanPrashad from "./data/seanPrashad.json";
 import Top150 from "./data/top150.json";
 import styles from "./App.module.css";
+import ReactGA from "react-ga4";
 
 function App() {
+  useEffect(() => {
+    ReactGA.initialize("G-QE7DR3NF3P"); // Replace with your Google Analytics ID
+    ReactGA.send("pageview");
+  }, []);
+
+  const location = useLocation();
+
+  useEffect(() => {
+    ReactGA.send({ hitType: "pageview", page: location.pathname });
+  }, [location]);
+
   return (
     <Router>
       <h1 className={styles.heading}>LeetCode Lists</h1>
