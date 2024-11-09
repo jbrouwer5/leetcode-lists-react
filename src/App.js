@@ -1,5 +1,11 @@
-import React, { useEffect, useLocation } from "react";
-import { HashRouter as Router, Route, Routes, NavLink } from "react-router-dom";
+import React, { useEffect } from "react";
+import {
+  HashRouter as Router,
+  Route,
+  Routes,
+  NavLink,
+  useLocation,
+} from "react-router-dom";
 import Home from "./Pages/Home";
 import About from "./Pages/About";
 import QuestionList from "./Pages/QuestionList";
@@ -10,22 +16,26 @@ import Top150 from "./data/top150.json";
 import styles from "./App.module.css";
 import ReactGA from "react-ga4";
 
-function App() {
-  useEffect(() => {
-    ReactGA.initialize("G-QE7DR3NF3P"); // Replace with your Google Analytics ID
-    ReactGA.send("pageview");
-  }, []);
-
+function AnalyticsTracker() {
   const location = useLocation();
 
   useEffect(() => {
     ReactGA.send({ hitType: "pageview", page: location.pathname });
   }, [location]);
 
+  return null;
+}
+
+function App() {
+  useEffect(() => {
+    ReactGA.initialize("G-QE7DR3NF3P"); // Replace with your Google Analytics ID
+    ReactGA.send("pageview");
+  }, []);
+
   return (
     <Router>
+      <AnalyticsTracker /> {/* Tracks page views on route change */}
       <h1 className={styles.heading}>LeetCode Lists</h1>
-
       <nav className={styles.navBar}>
         <ul className={styles.navList}>
           <li>
@@ -83,7 +93,6 @@ function App() {
           </li>
         </ul>
       </nav>
-
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
